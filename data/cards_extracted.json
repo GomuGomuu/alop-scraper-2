@@ -1,0 +1,4724 @@
+[
+    {
+        "name": "Charlotte Brulee",
+        "slug": "ST20-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffe26d80c-tcerk-l4sb2-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 3.5
+    },
+    {
+        "name": "Charlotte Cracker",
+        "slug": "ST20-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffe0a4ebc-4ib6j-5h0ei-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 2.5
+    },
+    {
+        "name": "Charlotte Daifuku",
+        "slug": "ST07-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffdd3ae5f-vlfs5-5k983-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Galette",
+        "slug": "OP03-107",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffd83157c-ge4r5-d3s9y-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "slug": "OP03-099",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffd4e806c-ipyb0-myz0u-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 11.9
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "slug": "ST20-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffded7472-remqn-cl62m-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 39.9
+    },
+    {
+        "name": "Charlotte Linlin",
+        "slug": "ST20-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffe5b1bc4-mtog5-pvnyl-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Opera",
+        "slug": "OP03-106",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffd695c41-eyn0a-j2b1y-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Pudding",
+        "slug": "OP03-112",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffdb95c46-xkwsp-4196q-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Pudding",
+        "slug": "ST20-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffe416509-9e1tg-hmpvn-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 12.0
+    },
+    {
+        "name": "Charlotte Smoothie",
+        "slug": "OP03-110",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/45/6723ffd9e7865-uk5n7-3jgot-ed9cbc35e454bd1bf0138f07d7d888a7.jpg",
+        "price": 2.0
+    },
+    {
+        "name": "Brannew",
+        "slug": "OP03-089",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff4605649-iv0mf-x6t3z-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 1.5
+    },
+    {
+        "name": "Donquixote Rosinante",
+        "slug": "OP02-108",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff3cc7592-sk65f-50uao-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Helmeppo",
+        "slug": "OP02-113",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff407514d-6vmbe-sdpz2-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Hina",
+        "slug": "ST19-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff4ce243c-2i9gc-bhua2-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Jaguar.D.Saul",
+        "slug": "OP02-109",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff3e9860f-jwvx8-sj460-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Koby",
+        "slug": "OP02-098",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff3933c95-m2wij-nvxe4-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Monkey.D.Garp",
+        "slug": "ST19-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff4e96376-blad6-zug85-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 2.5
+    },
+    {
+        "name": "Sengoku",
+        "slug": "ST19-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff495d025-lrcwh-5bgyo-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Smoker",
+        "slug": "OP02-093",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff3761e81-rb0wa-bp5ow-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 14.99
+    },
+    {
+        "name": "Smoker",
+        "slug": "ST19-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff47b5930-ikoup-wvca5-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 2.5
+    },
+    {
+        "name": "Tashigi",
+        "slug": "ST19-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff4b1f2cb-pjm1i-7dpm6-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Tsuru",
+        "slug": "OP02-106",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff3b04669-rul8c-3kocf-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Vergo",
+        "slug": "OP03-079",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff4425d67-63fkq-iwtgj-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Yamakaji",
+        "slug": "OP02-116",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/44/6723ff4250e8f-p3kqs-h1dgq-88d31d656d80171e69ef33c529beec0c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Chopa-Emon",
+        "slug": "OP05-068",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fe9e7705e-o9b1f-crwfg-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Fra-Nosuke",
+        "slug": "OP05-070",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fea02eb27-oni8f-ylr2a-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Hone-Kichi",
+        "slug": "OP05-072",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fea1e8a0b-i0dxl-t2f6q-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Jinbe",
+        "slug": "OP05-066",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fe9aba135-yl6ub-7q6ut-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Luffy-Tarou",
+        "slug": "ST18-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723feae81904-hrstb-t243w-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "OP05-060",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fe954da3c-c78jg-t5zmr-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "P-041",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fea598f3c-68sqb-o6pqv-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "O-Nami",
+        "slug": "ST18-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fea92f190-uhnd9-bfkd9-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "O-Robi",
+        "slug": "OP05-063",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fe98e010a-pxcja-a2r1g-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "San-Gorou",
+        "slug": "ST18-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723feaae8651-iyz95-lz0iy-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Uso-Hachi",
+        "slug": "OP05-061",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fe9712b61-y7om0-nd9c6-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Uso-Hachi",
+        "slug": "ST18-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fea75fa60-fuqhj-ypeoc-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "When You're at Sea You Fight against Pirates!!",
+        "slug": "OP05-076",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fea3bb6f1-vfix9-1jlit-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Zoro-Juurou",
+        "slug": "OP05-067",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723fe9caf20e-hdxge-khugf-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Zoro-Juurou",
+        "slug": "ST18-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/43/6723feacba9f4-pr4y2-ymfg0-82f792ca9e8f053165229e6c26e68bab.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "slug": "OP02-057",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/42/6723fe0348656-dm741-iu3er-4bb1843a950d6c013f3476a749bba2e1.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "ST17-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/42/6723fe0cb1310-e4lkw-wjpr2-4bb1843a950d6c013f3476a749bba2e1.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Buggy",
+        "slug": "ST17-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/42/6723fe0ad9423-2ve8l-eyu60-4bb1843a950d6c013f3476a749bba2e1.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Crocodile",
+        "slug": "ST17-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/42/6723fe073044c-ogujk-vzgcr-4bb1843a950d6c013f3476a749bba2e1.jpg",
+        "price": 2.6
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "slug": "OP01-060",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/42/6723fdfdd60b1-ng9jm-jgex7-4bb1843a950d6c013f3476a749bba2e1.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "slug": "OP01-073",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/42/6723fdffa356c-jxm10-uani7-4bb1843a950d6c013f3476a749bba2e1.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Gecko Moria",
+        "slug": "OP02-054",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/42/6723fe01679e3-bi1ck-f9u0c-4bb1843a950d6c013f3476a749bba2e1.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Jinbe",
+        "slug": "P-030",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/42/6723fe0565aee-vlqi2-t2p78-4bb1843a950d6c013f3476a749bba2e1.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Marshall.D.Teach",
+        "slug": "ST17-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/42/6723fe0e7ebb4-yp3ct-dhg07-4bb1843a950d6c013f3476a749bba2e1.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Trafalgar Law",
+        "slug": "ST17-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/42/6723fe090aa68-41xwr-xvh5q-4bb1843a950d6c013f3476a749bba2e1.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Backlight",
+        "slug": "ST11-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fd027e5e0-hz0ba-02kex-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Bartolomeo",
+        "slug": "P-029",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fcf62bb1a-qz1j4-e52rh-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "slug": "ST16-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fd0ba4a2b-o3mwn-xizus-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Fleeting Lullaby",
+        "slug": "P-057",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fcf7e1cc5-ntxui-t6kre-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Gordon",
+        "slug": "ST16-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fd09be217-uxtow-yw1ir-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "I'm invincible",
+        "slug": "ST11-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fd0617b39-8u0tk-v1ag9-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "P-061",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fcff0a3c1-mu1gj-7r5s8-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST16-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fd0f3d281-ib3te-jtqva-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "New Genesis",
+        "slug": "ST11-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fd0456012-7aljr-2lku0-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Shanks",
+        "slug": "ST16-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fd0d759f7-u7plm-1pwcd-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "The World's Continuation",
+        "slug": "P-059",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fcfb80774-qxtbs-p8x7o-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Tot Musica",
+        "slug": "P-060",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fcfd442a2-u0dab-j26if-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Uta",
+        "slug": "ST11-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fd00bc362-w42y9-y3qvd-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Uta",
+        "slug": "ST16-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fd07e0a88-zclk0-m159y-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Where the Wind Blows",
+        "slug": "P-058",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/41/6723fcf9aeb5c-dt4ik-docgu-401ede8cc7b8d8a7717aa9e1c73a3dee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Atmos",
+        "slug": "ST15-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc74e7c4e-5qlnx-zkpns-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Edward.Newgate",
+        "slug": "OP02-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc6657ad2-ikpe9-106ow-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Edward.Newgate",
+        "slug": "ST15-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc76b103c-izc0e-ldc7z-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Fossa",
+        "slug": "OP03-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc732dbb0-eqkh2-wpxmg-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Izo",
+        "slug": "OP03-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc6dc91a0-iox91-6bned-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Jozu",
+        "slug": "OP02-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc68608e4-n3a2i-7dbv2-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Kingdew",
+        "slug": "ST15-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc78952ec-co614-6tszr-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Marco",
+        "slug": "OP02-018",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc6a41a60-knfr5-47ax6-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 4.0
+    },
+    {
+        "name": "Namule",
+        "slug": "OP03-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc71650b5-dba4q-j9xzr-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Portgas.D.Ace",
+        "slug": "ST15-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc7c38c23-fg5ne-ilsqo-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Rakuyo",
+        "slug": "OP02-019",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc6c0a2f0-jwb5h-528fd-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Speed Jil",
+        "slug": "OP03-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc6f9852d-luebh-zvmi8-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Thatch",
+        "slug": "ST15-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/40/6723fc7a621bf-dltej-ng6ec-4682ff0ae7be7a25fde091755de4c1f5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Alber",
+        "slug": "OP08-059",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789efa6769-saot6-jukf8-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Aphelandra",
+        "slug": "OP08-041",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789cc1b99c-adgxq-ne87f-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Atmos",
+        "slug": "OP08-040",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789ca7c6bf-bu1kn-4itm9-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "BB",
+        "slug": "OP08-035",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789c27d47a-5jmt8-v37ci-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Baron Tamago",
+        "slug": "OP08-070",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a04b580f-7ra3y-1avux-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "OP08-089",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a29b5825-pfnyu-f5uy9-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Biscuit Warrior",
+        "slug": "OP08-072",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a07f049c-muti5-yo91l-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Black Maria",
+        "slug": "OP08-074",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a0b28503-jru4x-s9d2x-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 58.9
+    },
+    {
+        "name": "Black Maria",
+        "slug": "OP08-074-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a0cc08fa-728pq-df2u8-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 128.04
+    },
+    {
+        "name": "Buckin",
+        "slug": "OP08-051",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789dda971d-crulx-8r746-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Burn Bazooka",
+        "slug": "OP08-116",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a5dc6312-dkvqr-0i6z8-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Burn Blade",
+        "slug": "OP08-117",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a5f6880b-ew9a8-zgc0a-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Candy Maiden",
+        "slug": "OP08-075",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a0e5cf04-62j8i-phyvs-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Carrot",
+        "slug": "OP08-021",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789a700b18-hgac2-4zve1-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Carrot (021)",
+        "slug": "OP08-021-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789a88cede-wd0bg-b1go7-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 179.9
+    },
+    {
+        "name": "Carrot",
+        "slug": "OP08-023",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789abd42be-u1k3l-93km7-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 18.0
+    },
+    {
+        "name": "Carrot (023)",
+        "slug": "OP08-023-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789ad880b9-2asp0-e3whq-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 98.9
+    },
+    {
+        "name": "Charlotte Angel",
+        "slug": "OP08-101",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a3eda0f5-fvin7-ygx8p-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Charlotte Brulee",
+        "slug": "OP08-066",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789fad07c7-yuh4a-bxjad-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Charlotte Cracker",
+        "slug": "OP08-064",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789f7adf23-eadx2-8kprx-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Charlotte Custard",
+        "slug": "OP08-103",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a421fe2f-nmtd0-7z9oc-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "slug": "OP08-062",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789f48d8de-u4zmt-h0r9f-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "slug": "OP08-063",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d789f6221a5-wecig-0sw3e-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 1.5
+    },
+    {
+        "name": "Charlotte Linlin",
+        "slug": "OP08-069",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/38/66d78a017b8f9-ym69d-txy4u-8ee76bcd5fd49b4a594913e13cbb44d5.jpg",
+        "price": 22.74
+    },
+    {
+        "name": "Alber",
+        "slug": "OP08-059",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8799b4b7-az1o9-91dw2-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Aphelandra",
+        "slug": "OP08-041",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c867b5e73-bvjs8-zpwrq-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Atmos",
+        "slug": "OP08-040",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c86603803-c4r5k-ife7k-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 6.0
+    },
+    {
+        "name": "BB",
+        "slug": "OP08-035",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8611e388-pcls5-tbap5-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.5
+    },
+    {
+        "name": "Baron Tamago",
+        "slug": "OP08-070",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8852b5f7-yzcgv-uw2je-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "OP08-089",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c89aa0461-c0hmy-tmgp7-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 3.0
+    },
+    {
+        "name": "Biscuit Warrior",
+        "slug": "OP08-072",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8885cff8-uo54a-6yruo-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 3.0
+    },
+    {
+        "name": "Buckin",
+        "slug": "OP08-051",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c87334159-8k2fd-kfzd0-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Burn Bazooka",
+        "slug": "OP08-116",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8b4a212a-sjub3-qipm4-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 2.52
+    },
+    {
+        "name": "Burn Blade",
+        "slug": "OP08-117",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8b637f33-13tad-93xvj-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Candy Maiden",
+        "slug": "OP08-075",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c88b9c284-3bgvj-guaod-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 3.0
+    },
+    {
+        "name": "Charlotte Angel",
+        "slug": "OP08-101",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8a79e2e7-y8s17-xm71q-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 3.0
+    },
+    {
+        "name": "Charlotte Brulee",
+        "slug": "OP08-066",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c88204a16-78wtv-m0ypw-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Cracker",
+        "slug": "OP08-064",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c87ec2bfa-xjt24-jhi0w-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 3.0
+    },
+    {
+        "name": "Charlotte Custard",
+        "slug": "OP08-103",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8aacc454-rf54u-80glo-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "slug": "OP08-062",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c87d0e3e4-6wl2k-nkc81-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 6.0
+    },
+    {
+        "name": "Charlotte Opera",
+        "slug": "OP08-102",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8a9362d1-ac3mk-w2hot-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 7.99
+    },
+    {
+        "name": "Charlotte Oven",
+        "slug": "OP08-061",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c87b6145b-e6smz-rk0j5-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Perospero",
+        "slug": "OP08-068",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c88390001-f5t1b-6ubzf-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Poire",
+        "slug": "OP08-104",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8ac89a85-x1mlj-x1th7-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Smoothie",
+        "slug": "OP08-065",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8806f112-k2pi4-uwi8k-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 3.0
+    },
+    {
+        "name": "Chess",
+        "slug": "OP08-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c83fe3b0e-h4x1k-3hux9-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 3.0
+    },
+    {
+        "name": "Chessmarimo",
+        "slug": "OP08-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c8417f5c1-u7410-2xwjl-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Concelot",
+        "slug": "OP08-024",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/39/66e0c852bd63d-05njp-80517-bc6a2d5bd027f031e39705f650555b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Brook",
+        "slug": "ST14-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f493192b2-kqp1t-1ihem-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Franky",
+        "slug": "ST14-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f491180a2-sxuzt-wgrmt-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Gum-Gum Diable Three-Swords Style Mouten Jet Six Hundred Pound Phoenix Cannon",
+        "slug": "ST14-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f4e4c8c8c-sht4c-7d5jf-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 2.2
+    },
+    {
+        "name": "Gum-Gum Giant Rifle",
+        "slug": "ST14-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f4e305897-swg57-pwnsk-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 1.25
+    },
+    {
+        "name": "Haredas",
+        "slug": "ST14-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f48f1798b-i9aqn-3yu0r-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Heracles",
+        "slug": "ST14-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f495193d3-rd14a-b80g9-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "I Have My Crew!!",
+        "slug": "ST14-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f4e6789ad-zgwbf-d4c1j-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 2.2
+    },
+    {
+        "name": "Jinbe",
+        "slug": "ST14-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f486a8dbc-9iwbq-zrjnu-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST14-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f480ef515-g38de-q96h0-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 9.0
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST14-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f4971739d-ba2ul-9crtk-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 2.0
+    },
+    {
+        "name": "Nami",
+        "slug": "ST14-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f48b15eb9-v27t5-dokhu-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 21.95
+    },
+    {
+        "name": "Nico Robin",
+        "slug": "ST14-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f48d1b0ea-av5y7-y9rx8-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Roronoa Zoro",
+        "slug": "ST14-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f4b54af97-80mtx-fg2vl-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Sanji",
+        "slug": "ST14-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f48515e73-rtofi-cgw8x-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 33.95
+    },
+    {
+        "name": "Thousand Sunny",
+        "slug": "ST14-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f4e82e334-guhzf-8vcjk-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 5.0
+    },
+    {
+        "name": "Tony Tony.Chopper",
+        "slug": "ST14-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f48916741-c8ma1-4nv9h-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Usopp",
+        "slug": "ST14-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/37/66b4f4829e25b-lcpdo-uhxsk-a703c4109512a42e240e16ae36403fd2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Ain",
+        "slug": "OP07-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/667066301241f-bny1l-dl3ag-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Aladine",
+        "slug": "OP07-020",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/66706648aff74-vsgx6-txzoq-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Atlas",
+        "slug": "OP07-098",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/667066b997bb5-edrg2-qn9yj-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.23
+    },
+    {
+        "name": "Baccarat",
+        "slug": "OP07-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/6670663d1ea1d-tus1b-kuxr2-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Bartolomeo",
+        "slug": "OP07-031",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/66706658ea2f4-s0v23-5b4qi-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "OP07-029",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/665f6ab59bc00-obm49-qykn3-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 7.9
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "OP07-029-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/665f6ab74c802-vrm97-oe6km-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 69.9
+    },
+    {
+        "name": "Baskerville",
+        "slug": "OP07-087",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/667066a92eb59-8fr5n-9flma-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Big Bun",
+        "slug": "OP07-070",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/6670669574c05-vyb6g-2twg7-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Blaze Slice",
+        "slug": "OP07-116",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/667066d5744c9-0d6w7-wua1q-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.64
+    },
+    {
+        "name": "Bluejam",
+        "slug": "OP07-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/6670663eb0ca5-o3e4y-mcwkq-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "OP07-038",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/665f6ab8e8c39-v28fc-iwv1r-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Boa Hancock (038)",
+        "slug": "OP07-038-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/665f6abaabe37-2okzu-p5xrl-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 259.19
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "OP07-051",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/66706679b3971-6p75o-rk78p-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 16.06
+    },
+    {
+        "name": "Boa Hancock (051) (Parallel)",
+        "slug": "OP07-051-MA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/6670667b7c895-xnusg-4kqhv-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 2299.9
+    },
+    {
+        "name": "Boa Hancock (051)",
+        "slug": "OP07-051-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/6670667d20006-hn3se-89wf0-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 129.5
+    },
+    {
+        "name": "Boa Marigold",
+        "slug": "OP07-052",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/6670667eb592d-cdy9u-ofqsb-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Boa Sandersonia",
+        "slug": "OP07-050",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/667066780f395-vm1iw-jxwr0-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Buckin",
+        "slug": "OP07-049",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/667066766f56b-lqxhy-9y53i-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Capote",
+        "slug": "OP07-063",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/6670668d5eddc-36wfl-bi7xo-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Captain John",
+        "slug": "OP07-082",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/667066a28e15d-a1o8p-vpb4i-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Caribou",
+        "slug": "OP07-023",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/6670664f3c327-bm5j3-163eo-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Carina",
+        "slug": "OP07-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/667066350feac-4ishb-oj38g-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Carina",
+        "slug": "OP07-005-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/34/6675af8da5a22-eflou-so21d-abe41489b7529f93619f73610b65569a.jpg",
+        "price": 24.0
+    },
+    {
+        "name": "Aladine",
+        "slug": "OP07-020",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e272d57d9-dizrk-6sg5j-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 5.9
+    },
+    {
+        "name": "Atlas",
+        "slug": "OP07-098",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e2c5d9b07-dgbi0-b8hse-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 0.52
+    },
+    {
+        "name": "Bartolomeo",
+        "slug": "OP07-031",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e27e6777e-2mr4q-ghmb6-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Baskerville",
+        "slug": "OP07-087",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e2ba65853-hsn3v-tyv58-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Big Bun",
+        "slug": "OP07-070",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e2a9f2c1b-k69xg-skc5h-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 14.99
+    },
+    {
+        "name": "Bluejam",
+        "slug": "OP07-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e268b796e-l24v6-lktmh-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Boa Marigold",
+        "slug": "OP07-052",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e295a15f5-c9n2x-mu8ow-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 2.0
+    },
+    {
+        "name": "Boa Sandersonia",
+        "slug": "OP07-050",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e29408d8b-colhd-ctgxk-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 5.9
+    },
+    {
+        "name": "Buckin",
+        "slug": "OP07-049",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e292566de-oe5vd-tk24u-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 2.0
+    },
+    {
+        "name": "Capote",
+        "slug": "OP07-063",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e2a1a11b7-794ev-baq8d-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 5.9
+    },
+    {
+        "name": "Captain John",
+        "slug": "OP07-082",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e2b3e543d-dq0mr-rduel-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 4.0
+    },
+    {
+        "name": "Caribou",
+        "slug": "OP07-023",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e27482c9e-vbduy-ezidk-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Coribou",
+        "slug": "OP07-025",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e277c3ef4-3hmwr-ykabt-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 2.0
+    },
+    {
+        "name": "Crocodile",
+        "slug": "OP07-040",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e28870c4b-1ep3c-wxvko-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Dice",
+        "slug": "OP07-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e263d15e9-ce5o1-d32zv-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 1.9
+    },
+    {
+        "name": "Dogura & Magura",
+        "slug": "OP07-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e2671d6d1-bh2my-7tbp6-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 2.0
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "slug": "OP07-048",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e290a5f46-awq1k-6m78y-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 5.0
+    },
+    {
+        "name": "Dracule Mihawk",
+        "slug": "OP07-044",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e28f076d9-dtoxv-l15bg-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 8.9
+    },
+    {
+        "name": "Dragon Breath",
+        "slug": "OP07-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e26f67cb1-0qx9j-jxh8a-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 1.0
+    },
+    {
+        "name": "Edison",
+        "slug": "OP07-100",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e2c9320e5-am4du-wyui8-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Edward Weevil",
+        "slug": "OP07-039",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e286c2e51-9n5gb-kgi4v-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Egghead",
+        "slug": "OP07-117",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e2dcf2a18-1miks-4w02s-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 4.9
+    },
+    {
+        "name": "Fuza",
+        "slug": "OP07-106",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e2d3027cc-hnwsk-5q7yc-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Gecko Moria",
+        "slug": "OP07-042",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/36/66a3e28bc637f-60teu-a691j-33b8cc5ab31f1fe4c08e472edafd6b15.jpg",
+        "price": 2.0
+    },
+    {
+        "name": "...I Want to Live!!",
+        "slug": "EB01-050",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902f342a79-smgx2-469vi-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Army Wolves",
+        "slug": "EB01-032",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902cdac459-7xyjh-w8n0p-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Bingoh",
+        "slug": "EB01-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/66390287b1a09-btp3d-s6yj7-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Blueno",
+        "slug": "EB01-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/66390289b27bc-69v3c-zwdv6-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Blueno",
+        "slug": "EB01-033",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902cf51d0c-qxe0f-yhent-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Brook",
+        "slug": "EB01-045",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902e62c2ed-sq9gt-6jufp-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Brook (046)",
+        "slug": "EB01-046-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902e97b8d1-2sdw3-wo8q4-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 264.99
+    },
+    {
+        "name": "Brook",
+        "slug": "EB01-046",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902e7d3443-6l5k0-4nlua-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 199.99
+    },
+    {
+        "name": "Cavendish",
+        "slug": "EB01-012-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/6639027ee215e-b4hep-086ip-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 189.9
+    },
+    {
+        "name": "Cavendish",
+        "slug": "EB01-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/6639027d46717-az83h-ialp2-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 133.05
+    },
+    {
+        "name": "Chambres",
+        "slug": "EB01-020",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/6639028fbb2b5-rvy0k-6zjl8-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Charlotte Compote",
+        "slug": "EB01-055",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902fd1e741-mg7d5-ok5rs-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Charlotte Flampe",
+        "slug": "EB01-056-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/6639030067a69-z4qtm-md2af-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 164.11
+    },
+    {
+        "name": "Charlotte Flampe",
+        "slug": "EB01-056",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902feb96e2-1a6qx-pc6hk-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 47.9
+    },
+    {
+        "name": "Conquerer of Three Worlds Ragnaraku",
+        "slug": "EB01-039",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902dabc092-hoejb-davoq-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.72
+    },
+    {
+        "name": "Crocus",
+        "slug": "EB01-041",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902dfa9697-yeg3a-5ie47-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Did Someone Say...Kami?",
+        "slug": "EB01-060",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663903089970b-ak4dp-qgo21-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Doma",
+        "slug": "EB01-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/6639026e245ab-ngtvj-dsjnb-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Edward Weevil",
+        "slug": "EB01-023",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902b016866-up5w2-h6tev-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 16.0
+    },
+    {
+        "name": "Finger Pistol",
+        "slug": "EB01-051",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902f4db55b-axigc-2gx8n-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.99
+    },
+    {
+        "name": "Fourtricks",
+        "slug": "EB01-025",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902bedf655-dypew-5bhgn-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Funkfreed",
+        "slug": "EB01-044",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902e4862ca-zp0mk-cykgt-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Gan.Fall",
+        "slug": "EB01-054",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902fb72e09-fmegv-qn3bw-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Gastino",
+        "slug": "EB01-053",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/32/663902f9cd946-p9gnq-8wyjc-b9b12b19cb53a92d8941339d1d261b27.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Curly.Dadan",
+        "slug": "ST13-006-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff310bc72a-ky6e1-o15cg-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 7.0
+    },
+    {
+        "name": "Curly.Dadan",
+        "slug": "ST13-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff30f1cbea-7dxo6-k5q1r-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Edward.Newgate",
+        "slug": "ST13-004-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff30a0689e-yinf9-7czp1-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 19.9
+    },
+    {
+        "name": "Edward.Newgate",
+        "slug": "ST13-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff3075f484-vqp9o-3yki7-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 0.75
+    },
+    {
+        "name": "Emporio.Ivankov",
+        "slug": "ST13-005-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff30d72bae-mx7zh-apcmt-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 12.9
+    },
+    {
+        "name": "Emporio.Ivankov",
+        "slug": "ST13-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff30bc3929-ukv2j-3o0sp-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 1.8
+    },
+    {
+        "name": "Flame Dragon King",
+        "slug": "ST13-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff3342a54c-1glsj-u7pwf-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 0.9
+    },
+    {
+        "name": "Gum-Gum Jet Spear",
+        "slug": "ST13-018",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff335c4fbf-7f5ei-o8vu3-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 0.75
+    },
+    {
+        "name": "Makino",
+        "slug": "ST13-012-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff32513da5-gv61r-cui12-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 10.9
+    },
+    {
+        "name": "Makino",
+        "slug": "ST13-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff3236b3cd-wxms4-v5zw6-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 0.85
+    },
+    {
+        "name": "Monkey.D.Garp",
+        "slug": "ST13-013-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff3286e968-8tfwk-kywji-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 73.9
+    },
+    {
+        "name": "Monkey.D.Garp",
+        "slug": "ST13-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff326b7555-5lztp-i90tp-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 8.0
+    },
+    {
+        "name": "Monkey.D.Luffy (003)",
+        "slug": "ST13-003-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff305b9997-215ow-r8wco-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 150.0
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST13-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff303e6fc1-hk962-p8n5a-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 3.5
+    },
+    {
+        "name": "Monkey.D.Luffy (014)",
+        "slug": "ST13-014-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff32bd68a1-flsot-524nk-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 59.95
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST13-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff32a39649-nv0c3-24n53-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 0.35
+    },
+    {
+        "name": "Monkey.D.Luffy (015)",
+        "slug": "ST13-015-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff32f2cd0e-u6fv2-ps6mo-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 107.9
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST13-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff32d855e9-i24te-uhg31-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 8.75
+    },
+    {
+        "name": "Portgas.D.Ace (002)",
+        "slug": "ST13-002-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff30243a93-fqnwx-4176y-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 79.85
+    },
+    {
+        "name": "Portgas.D.Ace",
+        "slug": "ST13-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff2ffeb410-23rex-vaek8-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 2.7
+    },
+    {
+        "name": "Portgas.D.Ace (010)",
+        "slug": "ST13-010-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff31e7aad2-w3geo-pm61b-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 49.85
+    },
+    {
+        "name": "Portgas.D.Ace",
+        "slug": "ST13-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff31cd4a61-w46g0-iawd2-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 0.3
+    },
+    {
+        "name": "Portgas.D.Ace (011)",
+        "slug": "ST13-011-PA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff321bd531-vtsnr-qct48-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 114.99
+    },
+    {
+        "name": "Portgas.D.Ace",
+        "slug": "ST13-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/30/661ff3202521c-o9kne-cf3rv-54b5a9e939118ca813426cd5e83c615a.jpg",
+        "price": 64.0
+    },
+    {
+        "name": "Charlotte Pudding",
+        "slug": "ST12-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f73b3473-u7fp9-rg4kp-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.29
+    },
+    {
+        "name": "Dracule Mihawk",
+        "slug": "ST12-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f658f4ad-tzrhv-ldrqy-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 36.75
+    },
+    {
+        "name": "Duval",
+        "slug": "ST12-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f76d4efa-pno9u-tf8cp-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 6.0
+    },
+    {
+        "name": "Elephant True Bluefin",
+        "slug": "ST12-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f6f0e0ec-vur4x-dqgvy-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.29
+    },
+    {
+        "name": "Emporio.Ivankov",
+        "slug": "ST12-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f70983c6-l8cpi-6odlf-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 4.54
+    },
+    {
+        "name": "Humandrill",
+        "slug": "ST12-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f6725230-j4xq5-3z7i1-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Kuina",
+        "slug": "ST12-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f63f3b80-2ygfq-emw87-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Lion Strike",
+        "slug": "ST12-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f7a09521-bpmrx-lqsux-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.34
+    },
+    {
+        "name": "Patty & Carne",
+        "slug": "ST12-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f7869493-flup8-w9o8f-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Perona",
+        "slug": "ST12-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f68b6551-awhks-1uby9-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.3
+    },
+    {
+        "name": "Plastic Surgery Shot",
+        "slug": "ST12-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f7b9996b-5a8ye-viqp7-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.6
+    },
+    {
+        "name": "Rika",
+        "slug": "ST12-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f6bd2b53-6ri1q-upsc1-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Roronoa Zoro & Sanji",
+        "slug": "ST12-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f6266193-en48j-9x6ob-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 4.0
+    },
+    {
+        "name": "Roronoa Zoro",
+        "slug": "ST12-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f6d7acc4-utmih-ipq4w-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.9
+    },
+    {
+        "name": "Sanji",
+        "slug": "ST12-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f722adfc-74aqw-qtizf-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.9
+    },
+    {
+        "name": "Yosaku & Johnny",
+        "slug": "ST12-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f6a4c725-xl2re-vj7ai-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Zeff",
+        "slug": "ST12-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/31/65e21f7546c1f-tnare-j7t0m-d8e831073ae7f8d2fe010411b79b4c8b.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "...Nothing...at All!!!",
+        "slug": "OP06-096",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96cb10dea-02cga-bl2fj-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Absalom",
+        "slug": "OP06-081-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96af3ca7a-vbdwo-yrfau-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 79.89
+    },
+    {
+        "name": "Absalom",
+        "slug": "OP06-081",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96ada5a16-k45pq-kdm6f-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.69
+    },
+    {
+        "name": "Aisa",
+        "slug": "OP06-099",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96cfbdfa5-nxyzs-jqs4e-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Ama no Murakumo Sword",
+        "slug": "OP06-056",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df967f8cbf4-97fjh-58i74-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Aramaki",
+        "slug": "OP06-043-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96694c184-spd6q-r5cyv-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 22.0
+    },
+    {
+        "name": "Aramaki",
+        "slug": "OP06-043",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df9667aa9c6-lo296-jqnr7-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 1.99
+    },
+    {
+        "name": "Arlong",
+        "slug": "OP06-023",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df964340c98-wvmdx-fe6om-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Baron Omatsuri",
+        "slug": "OP06-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df9618b6096-8zlra-nu1gr-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Bear.King",
+        "slug": "OP06-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df9629df8ea-8wf5h-tgqr2-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Black Bug",
+        "slug": "OP06-077",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96a5b0f0e-ona5l-nvmg2-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Blue Dragon Seal Water Stream",
+        "slug": "OP06-019",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df963826ce8-91mda-iy5dt-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Borsalino",
+        "slug": "OP06-054",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df967c5e698-urv2q-b4dfm-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.19
+    },
+    {
+        "name": "Borsalino",
+        "slug": "OP05-051",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df960ccc8e6-4eigc-qfbao-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 132.79
+    },
+    {
+        "name": "Braham",
+        "slug": "OP06-111",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96e9a66ec-k7ury-79dk4-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Brook",
+        "slug": "OP06-092",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96c32b922-5ma98-dxsky-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.7
+    },
+    {
+        "name": "Buggy",
+        "slug": "OP03-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96065b466-j1dca-1kdou-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 299.0
+    },
+    {
+        "name": "But I Will Never Doubt a Woman's Tears!!!!",
+        "slug": "OP06-057",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96812b28a-7wn1a-u4y2o-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Camie",
+        "slug": "OP06-025-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df9647f014c-wcl6e-wrbu1-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 28.09
+    },
+    {
+        "name": "Camie",
+        "slug": "OP06-025",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df964664c34-8da1w-72c6l-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Cerberus",
+        "slug": "OP06-087",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df96ba4190b-3qv9c-0e1rw-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Charlotte Linlin",
+        "slug": "OP03-114",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df9607e9997-2mvin-7dfcq-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 468.9
+    },
+    {
+        "name": "Charlotte Pudding",
+        "slug": "OP06-047",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df966fb4fa6-ie5s0-ezdbh-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 13.9
+    },
+    {
+        "name": "Cosette",
+        "slug": "OP06-072",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/24/65df969db71f0-2q0j4-g9dsp-b7fb9549fa5cb8034b503768046d44db.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "...Nothing...at All!!!",
+        "slug": "OP06-096",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12f8a4800-datl9-z3ljy-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 3.0
+    },
+    {
+        "name": "Aisa",
+        "slug": "OP06-099",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12fc24851-8h91u-tlnh6-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 4.0
+    },
+    {
+        "name": "Ama no Murakumo Sword",
+        "slug": "OP06-056",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12ba77268-l3svr-3mi9k-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 10.0
+    },
+    {
+        "name": "Baron Omatsuri",
+        "slug": "OP06-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d128358cbd-oj4up-afu1h-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 8.0
+    },
+    {
+        "name": "Bear.King",
+        "slug": "OP06-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d1289d2b98-1p6tg-c1970-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Blue Dragon Seal Water Stream",
+        "slug": "OP06-019",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d1291f22d7-lfcqn-l6n9x-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 25.6
+    },
+    {
+        "name": "Borsalino",
+        "slug": "OP06-054",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12b67266b-c0egn-vhrq0-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 14.9
+    },
+    {
+        "name": "Braham",
+        "slug": "OP06-111",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d1309b51af-xouw3-ozri1-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 12.9
+    },
+    {
+        "name": "But I Will Never Doubt a Woman's Tears!!!!",
+        "slug": "OP06-057",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12bc76274-v4qr9-0g4xy-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 3.5
+    },
+    {
+        "name": "Cerberus",
+        "slug": "OP06-087",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12ee819b1-8ehv9-9720o-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 5.9
+    },
+    {
+        "name": "Cosette",
+        "slug": "OP06-072",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12de043ca-sk94d-xvnpg-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 4.99
+    },
+    {
+        "name": "Count Battler",
+        "slug": "OP06-075",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12e14bbb2-m98tn-x09eu-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 1.9
+    },
+    {
+        "name": "Daruma",
+        "slug": "OP06-029",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d129a37086-hdwpe-2nvg6-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 9.0
+    },
+    {
+        "name": "Denjiro",
+        "slug": "OP06-109",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d1306786fc-ptnvy-smvut-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Dosun",
+        "slug": "OP06-030",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d129bd13f1-ejgs0-pl2rz-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 6.5
+    },
+    {
+        "name": "Eldoraggo",
+        "slug": "OP06-070",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12dab271c-kv4up-jtkgh-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 3.9
+    },
+    {
+        "name": "Emporio.Ivankov",
+        "slug": "OP06-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d1281b67f4-jyo04-hc2zg-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 34.0
+    },
+    {
+        "name": "GERMA 66",
+        "slug": "OP06-078",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12e4b08fd-103bq-t6lw3-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Gasparde",
+        "slug": "OP06-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d1285020ee-txc1s-qu5ds-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 4.0
+    },
+    {
+        "name": "Genbo",
+        "slug": "OP06-105",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d1302ede63-uvtfb-drbvu-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 9.9
+    },
+    {
+        "name": "Gild Tesoro",
+        "slug": "OP06-071",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12dc55cc9-1uc0k-fnagk-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 14.7
+    },
+    {
+        "name": "Gion",
+        "slug": "OP06-044",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d12a8ef33d-t9ayr-9y0u5-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Gyro",
+        "slug": "OP06-027",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d1296d619f-lidkj-h9j34-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 10.99
+    },
+    {
+        "name": "Hammond",
+        "slug": "OP06-032",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/33/663d129f21849-efzah-sko4p-a605f98345047d0a670d33d095582cce.jpg",
+        "price": 10.0
+    },
+    {
+        "name": "Backlight",
+        "slug": "ST11-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/23/65aaf0eb2f7d0-o31il-lrj1u-055edd52d7d7169bab9fa23641d5327e.jpg",
+        "price": 2.95
+    },
+    {
+        "name": "I'm invincible",
+        "slug": "ST11-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/23/65aaf0ee505b0-h8053-91l2b-055edd52d7d7169bab9fa23641d5327e.jpg",
+        "price": 0.6
+    },
+    {
+        "name": "New Genesis",
+        "slug": "ST11-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/23/65aaf0ecb94ba-os927-whq5z-055edd52d7d7169bab9fa23641d5327e.jpg",
+        "price": 3.9
+    },
+    {
+        "name": "Uta",
+        "slug": "ST11-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/23/65aaf0e7b4100-oe5mh-eoxzd-055edd52d7d7169bab9fa23641d5327e.jpg",
+        "price": 7.9
+    },
+    {
+        "name": "Uta",
+        "slug": "ST11-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/23/65aaf0e99e36c-16eqk-6bo39-055edd52d7d7169bab9fa23641d5327e.jpg",
+        "price": 19.9
+    },
+    {
+        "name": "Amazon",
+        "slug": "OP05-099",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353b8d3367-j2iwe-jl126-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Baby 5",
+        "slug": "OP05-033",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/66735370942be-1cdp7-mlhw1-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "slug": "OP05-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/6673535795d46-vsxhd-l80of-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "OP05-047",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353803e906-z1ri8-xna1c-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 19.0
+    },
+    {
+        "name": "Bastille",
+        "slug": "OP05-048",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353821561e-jpklz-r7zdc-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 3.99
+    },
+    {
+        "name": "Bellamy",
+        "slug": "OP05-035",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/66735372943f6-2c7ki-kfhob-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Birdcage",
+        "slug": "OP05-040",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353799e50d-eartx-wai2b-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 45.0
+    },
+    {
+        "name": "Buffalo",
+        "slug": "OP05-031",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/6673536e94fe8-w46q7-25uon-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 12.0
+    },
+    {
+        "name": "Bunny Joe",
+        "slug": "OP05-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/6673535ad325a-vgzli-r1xa9-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Captain McKinley",
+        "slug": "OP05-112",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353c603994-qa2z9-75jkd-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Chaka",
+        "slug": "OP05-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/66735352b2354-vb4oa-cxkg3-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlestone",
+        "slug": "OP05-038",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353764afcd-skcf9-n3ixg-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 9.9
+    },
+    {
+        "name": "Chopa-Emon",
+        "slug": "OP05-068",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/66735397b8d6f-8idmu-crf8w-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 7.9
+    },
+    {
+        "name": "Conis",
+        "slug": "OP05-104",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353bc29c51-jtv6k-lqsvp-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Dalmatian",
+        "slug": "OP05-046",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/6673537e94f34-30s4k-c94q6-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 2.0
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "slug": "OP05-028",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/6673536a991b7-hb0ac-t1xcy-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 35.0
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "slug": "OP05-029",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/6673536c931f6-pce5y-p3xsy-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Dragon Claw",
+        "slug": "OP05-095",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353b3d422b-riuvx-u9rsq-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "El Thor",
+        "slug": "OP05-114",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353c94192c-quzdl-7rmia-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 17.6
+    },
+    {
+        "name": "Elizabello II",
+        "slug": "OP05-080",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353a50950b-5ms9r-nas9p-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 31.9
+    },
+    {
+        "name": "Emporio Energy Hormone",
+        "slug": "OP05-018",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/6673535e11384-toni1-dpvi6-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 14.99
+    },
+    {
+        "name": "Emporio.Ivankov",
+        "slug": "OP05-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/66735351149d6-gr5q3-u64er-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 79.9
+    },
+    {
+        "name": "Four Thousand-Brick Fist",
+        "slug": "OP05-020",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/6673535fa7910-6h0ym-sbiuy-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 44.9
+    },
+    {
+        "name": "Fra-Nosuke",
+        "slug": "OP05-070",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/35/667353995ae29-k0ew8-z7vqp-590a96f71511fc332ae47c502482031b.jpg",
+        "price": 89.9
+    },
+    {
+        "name": "Amazon",
+        "slug": "OP05-099",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660c081078d-3e7af-mcrd6-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Baby 5",
+        "slug": "OP05-033",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b8f57c5e-3qcb6-urmb7-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.05
+    },
+    {
+        "name": "Baby 5",
+        "slug": "OP05-034-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b9284b27-jkzyd-as03p-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 79.99
+    },
+    {
+        "name": "Baby 5",
+        "slug": "OP05-034",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b90e5447-s2zbm-nt189-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 1.0
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "slug": "OP05-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b6928ba1-c0bp9-8bgoz-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "OP05-047",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660ba8b11b2-d0mo7-rlyuz-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Bastille",
+        "slug": "OP05-048",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660baa4e457-s1d74-jtlbn-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+        "slug": "OP05-037",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b9741cd8-rf13e-det70-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Bellamy",
+        "slug": "OP05-035",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b941acd8-uemsi-k81y3-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Belo Betty (015)",
+        "slug": "OP05-015-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b712b5fb-9gs5w-8p5vm-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 61.95
+    },
+    {
+        "name": "Belo Betty",
+        "slug": "OP05-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b6f8f0d2-5waok-n1yzv-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.8
+    },
+    {
+        "name": "Belo Betty",
+        "slug": "OP05-002-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/654cf0e70fb38-oip7v-u6zse-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 405.9
+    },
+    {
+        "name": "Belo Betty",
+        "slug": "OP05-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b594f905-g9v4h-az79t-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Bepo",
+        "slug": "OP05-071",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660bd5166f5-9m7xw-omryd-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Birdcage",
+        "slug": "OP05-040",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b9c0e613-majxr-4iud2-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Borsalino",
+        "slug": "OP05-051-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660bb095bb9-ym5x4-9jt7v-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 33.9
+    },
+    {
+        "name": "Borsalino",
+        "slug": "OP05-051",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660baf0b01b-51wr2-4za6m-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 1.9
+    },
+    {
+        "name": "Buffalo",
+        "slug": "OP05-031",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b8a98c64-4mjwk-80tja-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Bunny Joe",
+        "slug": "OP05-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b6c5b3ae-4iuz9-dcktn-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.05
+    },
+    {
+        "name": "Captain McKinley",
+        "slug": "OP05-112",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660c2056cd4-f59rz-bokvs-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.06
+    },
+    {
+        "name": "Chaka",
+        "slug": "OP05-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b645a7aa-837o1-7zfu5-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.15
+    },
+    {
+        "name": "Charlestone",
+        "slug": "OP05-038",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660b98d30a8-kvf0q-2p18a-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Chopa-Emon",
+        "slug": "OP05-068",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660bcec6bbb-pliku-a7phn-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Conis",
+        "slug": "OP05-104",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/20/65660c12e5896-zdyp1-7feqk-c50bda060cc1af3b41e5f2fa36bee4f5.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Bepo",
+        "slug": "ST10-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c19a07120e-e0l2i-297uh-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.41
+    },
+    {
+        "name": "DON!! Card",
+        "slug": "DON-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/657871308e2ca-jzsvu-1kf8m-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.64
+    },
+    {
+        "name": "Eustass\"Captain\"Kid",
+        "slug": "ST10-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c199215711-pbgzx-tnde2-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Eustass\"Captain\"Kid",
+        "slug": "ST10-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c19a20b81b-rce8b-8rvie-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 12.98
+    },
+    {
+        "name": "Gum-Gum Giant Sumo Slap",
+        "slug": "ST10-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c19a548008-0ohwu-5pb8a-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Gum-Gum Kong Gatling",
+        "slug": "ST10-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c19a6cedc3-medoa-td9zi-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.17
+    },
+    {
+        "name": "Heat",
+        "slug": "ST10-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c199eda046-dv06j-sq382-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.4
+    },
+    {
+        "name": "Jean Bart",
+        "slug": "ST10-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c199bbb156-9nk4i-3vyqr-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.39
+    },
+    {
+        "name": "Jinbe",
+        "slug": "ST10-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c199562839-hd8be-tgzvl-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 1.4
+    },
+    {
+        "name": "Killer",
+        "slug": "ST10-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c1998a17a0-94bxv-z8ufg-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST10-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c19907e921-1a4jx-ip4zq-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 4.0
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST10-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c1996f1b25-t0wq1-3q9mp-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 3.9
+    },
+    {
+        "name": "Punk Vise",
+        "slug": "ST10-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c19a87b24c-wx4jr-zgl86-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.41
+    },
+    {
+        "name": "Sanji",
+        "slug": "ST10-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c1993aa241-owqm7-n1yz4-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Shachi & Penguin",
+        "slug": "ST10-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c199a32304-021vr-fe47m-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Trafalgar Law",
+        "slug": "ST10-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c198ee04a7-sc8qx-aro1g-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Trafalgar Law",
+        "slug": "ST10-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c199d513ca-gu754-ot73y-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 13.9
+    },
+    {
+        "name": "Wire",
+        "slug": "ST10-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/22/653c19a3b3ebb-ufqwz-yrseh-fbc7919474bcddd8783b384efe93a20c.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Apis",
+        "slug": "OP04-041",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504aadccc37d-lbzsu-do28z-21397446146504aadccc3c3.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Baby 5",
+        "slug": "OP04-032",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504ab335b0b1-s0atk-sbmvl-2014838266504ab335b0f3.jpg",
+        "price": 0.4
+    },
+    {
+        "name": "Bad Manners Kick Course",
+        "slug": "OP04-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504ab8732b3b-5rum9-5bvhg-4137156846504ab8732b78.jpg",
+        "price": 17.9
+    },
+    {
+        "name": "Bananagator",
+        "slug": "OP04-062",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504abbd8427e-k1j2m-i6zle-11836322406504abbd842c8.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Barrier!!",
+        "slug": "OP04-095",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504ac0096847-c5249-05opn-1779057326504ac0096886.jpg",
+        "price": 0.07
+    },
+    {
+        "name": "Bartolomeo",
+        "slug": "OP04-089",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504acc1c9044-oqfhx-nm059-10710529536504acc1c9082.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Black Maria",
+        "slug": "OP04-052",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504acf4589d2-uh24n-pd6sx-3169485836504acf458a0f.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "OP01-078",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504ade31bf0b-wcu1t-f6djb-3801467766504ade31bf49.jpg",
+        "price": 657.79
+    },
+    {
+        "name": "Boodle",
+        "slug": "OP03-050",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/654b9a2227391-lk6cd-iogu6-421d13c7ecd67604cedbe44f88dd1f61.jpg",
+        "price": 30.0
+    },
+    {
+        "name": "Buggy",
+        "slug": "OP03-032",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/654b9a202b264-rgbd3-fmy7w-421d13c7ecd67604cedbe44f88dd1f61.jpg",
+        "price": 8.9
+    },
+    {
+        "name": "Capone\"Gang\"Bege",
+        "slug": "OP04-100",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6501b2025e1ff-swk9x-9q30p-2e5cc4ff90b811648534e31d9a577460.jpg",
+        "price": 12.9
+    },
+    {
+        "name": "Capone\"Gang\"Bege",
+        "slug": "OP04-100-A",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6501b202ceda3-aq1k0-vza2h-6787ce8f6f027c78d009e8200a299075.jpg",
+        "price": 188.0
+    },
+    {
+        "name": "Carmel",
+        "slug": "OP04-101",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504ae494c5b5-94hwx-fauys-18091960306504ae494c5f4.jpg",
+        "price": 0.05
+    },
+    {
+        "name": "Cavendish",
+        "slug": "OP04-081",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504ae7de6299-8g0ri-kmrd6-20290725246504ae7de62d6.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Chaka",
+        "slug": "OP04-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504af93c5917-z9kuf-mw402-19578075276504af93c593a.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Charlotte Amande",
+        "slug": "OP04-105",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504afb50d22f-3s84j-qz8uo-20762002946504afb50d26e.jpg",
+        "price": 0.48
+    },
+    {
+        "name": "Charlotte Bavarois",
+        "slug": "OP04-106",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504afd30d2ed-f7rjl-8wva6-17416651576504afd30d32a.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Charlotte Moscato",
+        "slug": "OP04-108",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504aff70fb6c-m2jo9-b2wh0-6788969496504aff70fbab.jpg",
+        "price": 0.09
+    },
+    {
+        "name": "Charlotte Perospero",
+        "slug": "OP04-107",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504b01662957-n4xwk-mpicq-12339522846504b01662994.jpg",
+        "price": 0.06
+    },
+    {
+        "name": "Chinjao",
+        "slug": "OP04-086",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504b0378effc-g6nye-g3c0b-14490724196504b0378f03a.jpg",
+        "price": 0.05
+    },
+    {
+        "name": "Colors Trap",
+        "slug": "OP04-074",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504b052a49f2-rxpnb-ew5lr-17662140136504b052a4a32.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Corrida Coliseum",
+        "slug": "OP04-096",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6504b075c9271-nvrpz-u54sw-16867969626504b075c92b4.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Crocodile",
+        "slug": "OP04-058",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6501b20352392-ton51-zda0n-3b457361b785fe0fd09b6514ec1cf49f.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Crocodile",
+        "slug": "OP04-058-A",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/1/6501b203e29e2-zjpye-fnwj2-a93a279183160a96aaba403cda022b6d.jpg",
+        "price": 139.9
+    },
+    {
+        "name": "Apis",
+        "slug": "OP04-041",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0d97da1e-c1pnv-8ownm-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 3.8
+    },
+    {
+        "name": "Baby 5",
+        "slug": "OP04-032",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0ceb08a8-qcpn8-f6e8o-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 79.9
+    },
+    {
+        "name": "Bananagator",
+        "slug": "OP04-062",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab10115918-no1rw-nx5t8-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 4.99
+    },
+    {
+        "name": "Barrier!!",
+        "slug": "OP04-095",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab1268e133-e0zj1-2ufh4-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 6.79
+    },
+    {
+        "name": "Black Maria",
+        "slug": "OP04-052",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0e751976-tmqr8-1wchj-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Carmel",
+        "slug": "OP04-101",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab12db5167-59qvh-ie6y7-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 2.85
+    },
+    {
+        "name": "Charlotte Bavarois",
+        "slug": "OP04-106",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab13155a5a-yhbm5-8o5ct-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 2.85
+    },
+    {
+        "name": "Charlotte Moscato",
+        "slug": "OP04-108",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab134d975d-3bhpl-7id9t-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Perospero",
+        "slug": "OP04-107",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab13320a62-b7fze-tbxw5-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 26.99
+    },
+    {
+        "name": "Chinjao",
+        "slug": "OP04-086",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab11daf016-2gae1-piqxl-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 3.32
+    },
+    {
+        "name": "Corrida Coliseum",
+        "slug": "OP04-096",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab12857a46-smc9d-owafq-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 30.0
+    },
+    {
+        "name": "Daddy Masterson",
+        "slug": "OP04-027",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0cb301c7-qgjx8-0m29u-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 4.5
+    },
+    {
+        "name": "Dellinger",
+        "slug": "OP04-029",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0ccea120-3o8hk-qardi-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 5.99
+    },
+    {
+        "name": "Diable Jambe Joue Shot",
+        "slug": "OP04-116",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab141581fc-wcmy9-x015j-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 5.9
+    },
+    {
+        "name": "Donquixote Family",
+        "slug": "OP04-036",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0d42a659-4dz9f-1c8em-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 1.5
+    },
+    {
+        "name": "Dragon Twister Demolition Breath",
+        "slug": "OP04-057",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0fb54a77-g583p-z8mnf-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 27.9
+    },
+    {
+        "name": "Enchanting Vertigo Dance",
+        "slug": "OP04-018",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0c21c9e3-mq3a2-a38wo-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 3.99
+    },
+    {
+        "name": "Eric",
+        "slug": "OP04-022",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0c5bf8a9-m0ylc-poj18-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 12.0
+    },
+    {
+        "name": "Flapping Thread",
+        "slug": "OP04-037",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0d5eb296-dorae-smv8o-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 4.75
+    },
+    {
+        "name": "Giolla",
+        "slug": "OP04-025",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab0c9627f1-7o0b4-z0ep3-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 3.5
+    },
+    {
+        "name": "Gum-Gum King Kong Gun",
+        "slug": "OP04-093",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab124c403a-kdyic-p6wkd-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 49.99
+    },
+    {
+        "name": "Gun Modoki",
+        "slug": "OP04-115",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab13f8e986-bzs7u-kdhxn-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 7.75
+    },
+    {
+        "name": "Gyats",
+        "slug": "OP04-080",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab118500a7-lyamt-v1yfe-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Hajrudin",
+        "slug": "OP04-088",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/29/654ab12143c40-n25md-ia7fn-3876ad6d80fbd6211511062f8bb15285.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Fugetsu Omusubi",
+        "slug": "ST09-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c130467ae-t1e7x-3oejr-289a9edcdaa625c866664dcbe5e0b42d.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Kaido",
+        "slug": "ST09-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c13098c76-hu7ke-cyedf-ca08865dcdf76fb01d3d0cb9f86c0d8f.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Kouzuki Momonosuke",
+        "slug": "ST09-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c13100f26-bl7sg-gm96b-49ed364e4fd1ea87000621f8cd2c8cf0.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Kouzuki Oden",
+        "slug": "ST09-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c1315c034-2uipx-017k8-4e424846a75914cca453ec443d74b4bb.jpg",
+        "price": 4.49
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST09-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c131b0482-3nuqk-dif4t-b3d9aefc9be22ee476ba07c59c886cda.jpg",
+        "price": 0.41
+    },
+    {
+        "name": "Narikabura Arrow",
+        "slug": "ST09-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c136f34bd-djtic-ivl1o-9ba5f87b6abfd9fe68915122ba7959cc.jpg",
+        "price": 4.3
+    },
+    {
+        "name": "Portgas.D.Ace",
+        "slug": "ST09-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c13761958-2rnel-iy7or-9481f45c7e75d076982f807c747aef56.jpg",
+        "price": 3.49
+    },
+    {
+        "name": "Shimotsuki Ushimaru",
+        "slug": "ST09-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c137cf957-q74dh-5j39h-2292461b7857678d25dc371f48942c67.jpg",
+        "price": 0.38
+    },
+    {
+        "name": "Shinobu",
+        "slug": "ST09-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c1383dd7d-wygq1-lm3nd-07b340ac3eca131ffe9e7f11f8ee549a.jpg",
+        "price": 0.41
+    },
+    {
+        "name": "Thunder Bagua",
+        "slug": "ST09-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c138a1819-6qhbx-8c3ru-8e1629bb05bae268043bc2b8d6daa378.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Ulti",
+        "slug": "ST09-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c1390c320-gbjok-5arcy-04ea1705d992b4958c373dc7187b9e63.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Uzuki Tempura",
+        "slug": "ST09-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c1395b4f4-p6dtx-nsz9u-cd45900e43368c01704c151b422510c6.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Yamato",
+        "slug": "ST09-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c139a5a62-fi5jl-2nbxw-80080787549f10d770308c3365f8c153.jpg",
+        "price": 7.95
+    },
+    {
+        "name": "Yamato",
+        "slug": "ST09-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c13a13e66-e0yim-ivkmg-a806481be11b54cc1580a5730bcba2ae.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Yamato",
+        "slug": "ST09-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/15/64d4c13a6d9cb-izn7j-178cg-73353a1b4cfdf6b7b31aa29e91ee36ba.jpg",
+        "price": 0.41
+    },
+    {
+        "name": "Gaimon",
+        "slug": "ST08-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c0fc8c0f8-j31cg-izwf4-93d08849f1802a92d6414d897f1fef50.jpg",
+        "price": 0.34
+    },
+    {
+        "name": "Gum-Gum Bell",
+        "slug": "ST08-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c0fd00210-vnlba-fy87h-a3fc216f9d67fd0f1a3dbecbf4430e4a.jpg",
+        "price": 0.36
+    },
+    {
+        "name": "Gum-Gum Pistol",
+        "slug": "ST08-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c0fd563cd-ky4bo-zv4et-817f56006dbd2753cd057b505aa4bf18.jpg",
+        "price": 0.88
+    },
+    {
+        "name": "Higuma",
+        "slug": "ST08-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c0fdaea0b-9vleo-zh3ud-62b202374a7827c660220c2212b38b59.jpg",
+        "price": 0.36
+    },
+    {
+        "name": "Koby",
+        "slug": "ST08-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c0fe399a8-onzgm-wre2u-e2e52334c485f6362a412faac2778f30.jpg",
+        "price": 0.9
+    },
+    {
+        "name": "Laboon",
+        "slug": "ST08-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c0fe86481-6s5bq-dy4we-39fa6feb07e588bd8cf4a652f311eee5.jpg",
+        "price": 0.48
+    },
+    {
+        "name": "Makino",
+        "slug": "ST08-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c0fed5f68-6wjgh-h48wo-1fd2b640d9ac329bc83dc7ea08a8cd4e.jpg",
+        "price": 0.4
+    },
+    {
+        "name": "Monkey.D.Garp",
+        "slug": "ST08-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c0ff3f40e-p9xne-9jut4-cb2882868cf5c9c152f1d1859b5a9248.jpg",
+        "price": 0.28
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST08-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c0ff8ada9-k6v1h-7q26m-814b54f59bd3dff03acf25954749cef2.jpg",
+        "price": 6.95
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST08-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c0ffdd0a0-t8b2p-nu6pv-f47e5c4b649c7393362894e0d0963671.jpg",
+        "price": 0.48
+    },
+    {
+        "name": "Mr.2.Bon.Kurei",
+        "slug": "ST08-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c12e912b1-l0amy-uxpdo-b8603b84db74d4d1ad8383f9fea15474.jpg",
+        "price": 0.6
+    },
+    {
+        "name": "Nefeltari Vivi",
+        "slug": "ST08-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c12ee7f28-4pewy-sxq3j-d239e3049f7590887fbf2a63679981fc.jpg",
+        "price": 0.6
+    },
+    {
+        "name": "Shanks",
+        "slug": "ST08-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c12f4213c-lnqch-jetyz-fb255789f21779f5ec87cd95925bae96.jpg",
+        "price": 2.99
+    },
+    {
+        "name": "Shirahoshi",
+        "slug": "ST08-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c12f95f3a-k3x5c-4qtoc-15b9df0a3c9b7c0c34a99855966779d7.jpg",
+        "price": 0.48
+    },
+    {
+        "name": "Uta",
+        "slug": "ST08-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/14/64d4c12fe5ab6-mzteb-b9og0-be65a953fefea744a46e9134aedd47f2.jpg",
+        "price": 6.99
+    },
+    {
+        "name": "Baron Tamago",
+        "slug": "ST07-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c4ffee12b7b-uvio7-w7xe5-f90ed2063663825c358603c1f778e484.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Charlotte Anana",
+        "slug": "ST07-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c50025577b5-xvonm-3qyzh-160c46791d1ee47f7a78d00663cb12b7.jpg",
+        "price": 0.13
+    },
+    {
+        "name": "Charlotte Brulee",
+        "slug": "ST07-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c5003d9fdff-ylmn1-moe9k-042a731fa6b5fb22e3e1d3004773075b.jpg",
+        "price": 6.9
+    },
+    {
+        "name": "Charlotte Daifuku",
+        "slug": "ST07-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c5006bd94b5-zyq10-2f3pt-5562268b675ab78aa0aaad193ba46349.jpg",
+        "price": 0.48
+    },
+    {
+        "name": "Charlotte Flampe",
+        "slug": "ST07-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c500cf1f72a-pzjnw-vr7sz-26e52ff5ad035d18b6b7202f84032b3c.jpg",
+        "price": 0.15
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "slug": "ST07-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c500e3d3dcb-zvx2u-tseom-98709bbcdadd6408e32b912eb49fc6ce.jpg",
+        "price": 4.72
+    },
+    {
+        "name": "Charlotte Linlin",
+        "slug": "ST07-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c500f754975-yh2nl-fylp7-5bfa871f123f98acaacda72a7ee9fdb7.jpg",
+        "price": 2.69
+    },
+    {
+        "name": "Charlotte Linlin",
+        "slug": "ST07-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c5015118635-w6218-doz16-f7ba3de2a36805616be8549ebbd68204.jpg",
+        "price": 31.0
+    },
+    {
+        "name": "Charlotte Mont-d'Or",
+        "slug": "ST07-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c5015f04cd2-umx6e-n49dg-5248b4b878ebca07bed8fa271e010d6f.jpg",
+        "price": 0.3
+    },
+    {
+        "name": "Charlotte Pudding",
+        "slug": "ST07-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c5017083fab-xqoen-wqpge-45775587495e00fde2caf728055c92a6.jpg",
+        "price": 0.4
+    },
+    {
+        "name": "Charlotte Snack",
+        "slug": "ST07-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c50170f36c6-x1ycb-sz8mv-a66512c53b9cafdf6518f0812a3660f9.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Pekoms",
+        "slug": "ST07-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c5017155d2a-ybz1j-b31vw-8a29f889dd5b42aafad10520ba439a35.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Power Mochi",
+        "slug": "ST07-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c50171b086a-1r7qd-cb2qj-75bdffa736899c8737592d16c2e1ab3a.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Prometheus",
+        "slug": "ST07-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c5017217101-idy0u-xkf7c-355dbb947abda45d6f03ac70793c81ac.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Queen Mama Chanter",
+        "slug": "ST07-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c50172791c1-y3uxc-nt5ck-6c97673b9305909860ca0ebdd3b0b4b9.jpg",
+        "price": 0.32
+    },
+    {
+        "name": "Soul Pocus",
+        "slug": "ST07-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c50172d667e-w7ge6-mh5x0-f409abcde622fd715dc6409c30989c16.jpg",
+        "price": 0.45
+    },
+    {
+        "name": "Zeus",
+        "slug": "ST07-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/13/64c501733afc9-ov26c-niore-09b0cfaf9fbc0ebc8e0e1da679cfd18d.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Adio",
+        "slug": "OP03-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990c92d1e1-5xz0f-06zbo-daddd99a0163ab81d57d6c53259a991d.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Air Door",
+        "slug": "OP03-094",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990c9a635e-ox4er-wrbg9-b286dff8f14a9f997d50b77d9098de66.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Alvida",
+        "slug": "OP03-023",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990ca28983-moah7-y794f-6b016d8b3ef63bd426a824afc16a3a7a.jpg",
+        "price": 0.04
+    },
+    {
+        "name": "Arlong",
+        "slug": "OP03-022",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990caa88c1-1t02s-v6dtz-7967bbd533fd1a0b0933c5d500f26d51.jpg",
+        "price": 0.3
+    },
+    {
+        "name": "Arlong",
+        "slug": "OP03-022-E",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990cb29b2d-72p3i-n2dmu-08c9140c66387dfd977332a9483bc460.jpg",
+        "price": 198.9
+    },
+    {
+        "name": "Bell-mere",
+        "slug": "OP03-051",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990cbb54f6-7jfq4-0861m-5e9c3277a665f15328690a74d0f8e7ee.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Blamenco",
+        "slug": "OP03-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990cc3b5ae-wh729-agr30-3b049c7b919e990080bd2db48f2bee13.jpg",
+        "price": 0.04
+    },
+    {
+        "name": "Blueno",
+        "slug": "OP03-090",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990ccada6c-athxv-pm51q-6b982179cdd34f2b33b70392a219aab1.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Bobbin the Disposer",
+        "slug": "OP03-103",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990cd3dd0a-w0gqz-47l9d-6c5d716151eed6e77e91cc31fb3bf817.jpg",
+        "price": 0.05
+    },
+    {
+        "name": "Boodle",
+        "slug": "OP03-050",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990cdbc157-h2sdc-yrufb-e2c239eb120cb73da15eb0b1854b382f.jpg",
+        "price": 0.15
+    },
+    {
+        "name": "Brannew",
+        "slug": "OP03-089",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990d49c1fe-ztlfn-il6s4-fead43bc8676a0521dc44e0f4d984cbb.jpg",
+        "price": 2.6
+    },
+    {
+        "name": "Buchi",
+        "slug": "OP03-034",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990d519df9-etw8u-x2tz3-e785ea2163467118a3e86f5c48c5ac96.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Buggy",
+        "slug": "OP03-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990d590df5-urmsw-t8j5e-b258c40a4e33282552f5bb32baf6f035.jpg",
+        "price": 0.48
+    },
+    {
+        "name": "Buggy",
+        "slug": "OP03-032",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990d60efcf-z3ao2-wrhj1-c8a841567b31914ce9bb5dcb6a4627d0.jpg",
+        "price": 0.07
+    },
+    {
+        "name": "Buzz Cut Mochi",
+        "slug": "OP03-119",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990d684832-0fgcx-atc17-dd4ede0dfd89a770dc3e2b2803095ecc.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Camie",
+        "slug": "OP03-101",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990d7081e0-i1ekl-736g1-6968449258cca5334da4af587dc9421d.jpg",
+        "price": 0.04
+    },
+    {
+        "name": "Carne",
+        "slug": "OP03-045",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990d77ea55-s32vj-chd8f-3298712741ee19ac31eebe0ab503cdeb.jpg",
+        "price": 0.05
+    },
+    {
+        "name": "Charlotte Chiffon",
+        "slug": "OP03-109",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990d7f3a40-tsg1d-psckw-1c5e6e879c547f0410be7480fcd860c3.jpg",
+        "price": 0.04
+    },
+    {
+        "name": "Charlotte Cracker",
+        "slug": "OP03-108",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990d875654-rmyc0-2ojn1-2512734d94bccd1e25d159571f741e29.jpg",
+        "price": 16.9
+    },
+    {
+        "name": "Charlotte Cracker",
+        "slug": "OP03-108-E",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a990d8ef4e8-mnj28-vtfkc-2f79a98c7c16e31ed3b645d42bad3c2b.jpg",
+        "price": 116.75
+    },
+    {
+        "name": "Charlotte Galette",
+        "slug": "OP03-107",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a9916a17bab-gv98y-u40bo-6e0e13cf1108adc3aab861156156f29c.jpg",
+        "price": 0.07
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "slug": "OP03-099",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a9916a92a52-rf1sn-8upnd-e12eebf73bacfe17798c6b605eabe489.jpg",
+        "price": 0.69
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "slug": "OP03-099-E",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a9916b18f3b-1lc72-63hun-74fcab52fbfbe9dc7adf5ac0ba0ff177.jpg",
+        "price": 499.99
+    },
+    {
+        "name": "Charlotte Katakuri",
+        "slug": "OP03-123",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/5/64a9916b969c4-os4pr-9amvz-4dc050a70dcdbca6e75c189f550f6203.jpg",
+        "price": 239.9
+    },
+    {
+        "name": "Adio",
+        "slug": "OP03-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a8123490c90-3j6qr-nxfdz-eb83452f13fe80e100355d14d86095bc.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Air Door",
+        "slug": "OP03-094",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a8123573ce6-20fdk-41qio-abe6542e2347b2dc7efb465620a71896.jpg",
+        "price": 0.8
+    },
+    {
+        "name": "Alvida",
+        "slug": "OP03-023",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a81235d4842-bmd6f-0d9ca-f03df72ef80b856346a114b3bb87b02e.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Blamenco",
+        "slug": "OP03-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a8123653784-7lazv-74bcs-9ba6a8e165f61d2407bed7ee127b2158.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Bobbin the Disposer",
+        "slug": "OP03-103",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a81236baa88-814ei-lwsua-b8100efb15604c9e45d279abf070c78e.jpg",
+        "price": 1.2
+    },
+    {
+        "name": "Boodle",
+        "slug": "OP03-050",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a812372e973-5nlor-txp3g-ce003564408b9c45bddc50a29e8e4dcc.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Buchi",
+        "slug": "OP03-034",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a812378a2c2-4n8e3-i0mgw-b237be66b0f7c9a7d2d85ca7d2bd45cb.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Buggy",
+        "slug": "OP03-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a81237f1f8a-qno54-cb6ud-67dfe716ca7de49a3aaba10f58961b0c.jpg",
+        "price": 1.75
+    },
+    {
+        "name": "Buggy",
+        "slug": "OP03-032",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a81238c889e-juwyp-i5f4w-eb9899b7d1af0a4b28d7c2d8d1de1069.jpg",
+        "price": 1.0
+    },
+    {
+        "name": "Camie",
+        "slug": "OP03-101",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a8123953b65-p5xv7-728va-444fd0421277c556137e68b1eae5096c.jpg",
+        "price": 0.5
+    },
+    {
+        "name": "Carne",
+        "slug": "OP03-045",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a81265a4d4d-awtgn-m0cnq-a209f650808f96d095940260e18dcf36.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Chiffon",
+        "slug": "OP03-109",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a81266182fa-ay1fu-v1de5-8fc46f91a1b6838ad315fc5bb2c99f60.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Charlotte Galette",
+        "slug": "OP03-107",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a8126676a1c-f8owz-ypich-1b2629ff057741bc996797a6d886cfec.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Opera",
+        "slug": "OP03-106",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a81266e5d85-204ln-eabym-c65837799efcf6beac09c2167991c184.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Charlotte Oven",
+        "slug": "OP03-105",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a8126755d68-ajtx4-j9otr-0a57661126aac85005c6d3a866e068ed.jpg",
+        "price": 1.0
+    },
+    {
+        "name": "Charlotte Praline",
+        "slug": "OP03-111",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a81267befd1-dtfyn-fvuxb-a38d3249742e50b1e17a53446df6ac1c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Chew",
+        "slug": "OP03-029",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a8126830a8d-q4fle-jdogw-3726004ada7de13bb4401305bd09f888.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Chimney & Gonbe",
+        "slug": "OP03-065",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a8126895c10-pc12r-x7k4g-f8644d44a750412c7551fc8ef6f04724.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Corgy",
+        "slug": "OP03-083",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a8126908870-g1wv4-yram4-9a616ef5eb3c3e79144cd50009640348.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Cross Fire",
+        "slug": "OP03-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a812697a709-0wpf3-m9fgd-d0d51f29314343ddcfedef2ef650337b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Curiel",
+        "slug": "OP03-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a813141bf55-vtyhm-8vh5i-e9864c0c2c03c033f6ccd46cdce1ca66.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Enies Lobby",
+        "slug": "OP03-098",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a813147d5ca-42emq-6w1xc-cb749f39297329c8a5afb508d7934481.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Fiery Doll",
+        "slug": "OP03-019",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a81314ecb48-r6xzm-mv2fp-bbf6ae19c799e1e28251e1a78700359c.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Fossa",
+        "slug": "OP03-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/21/64a8131558e3a-r4ful-fa1r5-158d7146b6f029d91d0bce718e62092a.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Fullbody",
+        "slug": "ST06-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca356ae5f5-tm93u-qmol7-c9b7780670d387c2d0657930a5c7fa80.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Great Eruption",
+        "slug": "ST06-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca3575392d-qyfm7-f054g-3e1f58074bd10fe3e99be11f53d9eb1e.jpg",
+        "price": 3.9
+    },
+    {
+        "name": "Helmeppo",
+        "slug": "ST06-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca3580d2b6-mbuai-qcds5-dfab112304d30d7571b257cd5f36f5a4.jpg",
+        "price": 1.89
+    },
+    {
+        "name": "Hina",
+        "slug": "ST06-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca358d62b8-wmvd8-v5yh1-0d523230f063172ccb97a8f7d78a4e1b.jpg",
+        "price": 21.9
+    },
+    {
+        "name": "Jango",
+        "slug": "ST06-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca3599c258-jfb9r-d4yk9-bbf78f7c40aca130bb222a352e28d525.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Koby",
+        "slug": "ST06-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca35a6ec75-lj946-3kgm2-e7e4b8c0504907cbb764be88168ca42e.jpg",
+        "price": 0.38
+    },
+    {
+        "name": "Momonga",
+        "slug": "ST06-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca35b39d2e-15oyg-o7dga-80ce68635461459820026245701627d4.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Monkey.D.Garp",
+        "slug": "ST06-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca35c173fb-723dn-j3mec-4671258904f8e809f50a801975547fb3.jpg",
+        "price": 3.0
+    },
+    {
+        "name": "Navy HQ",
+        "slug": "ST06-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca35c77cb8-zwsq9-zefsj-74a996ce2f605c115f5266329959dc58.jpg",
+        "price": 2.99
+    },
+    {
+        "name": "Sakazuki",
+        "slug": "ST06-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca35fcaecc-rq3mx-k1l8f-1df6acd5786d0647f5000dc1b9cde3f2.jpg",
+        "price": 2.3
+    },
+    {
+        "name": "Sengoku",
+        "slug": "ST06-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca360901a6-u0l2h-m83xd-d8d4b1fd919741fd0b822753b8cde081.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Shockwave",
+        "slug": "ST06-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca361684c5-pa351-j0wte-0b521a2b0a885fe77c3f0dba24c0bd2a.jpg",
+        "price": 2.9
+    },
+    {
+        "name": "Smoker",
+        "slug": "ST06-004B",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/65f0aa26e5833-izd4y-4gn7q-061141c938e071310bbfe3587b2bd8d9.jpg",
+        "price": 4.51
+    },
+    {
+        "name": "T-Bone",
+        "slug": "ST06-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca362f204e-5rs14-8obkc-8c3579d2e1d6dbe9eb1496d78a3dce28.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Tashigi",
+        "slug": "ST06-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca363c6a2c-2xq19-q4a0g-9b434e8db4bdb66078d3a81434a977c7.jpg",
+        "price": 1.4
+    },
+    {
+        "name": "Tsuru",
+        "slug": "ST06-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca3648e8d3-npzv7-0364d-f01e533086d02872f69f9fe42ab41ea6.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "White Out",
+        "slug": "ST06-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/12/641ca3652af7b-52mv4-wh5lx-e37d008615ae107d400b2d9c2d5b3867.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Arabesque Brick Fist",
+        "slug": "OP02-067",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca17881ae5-ko7nd-27j01-af94ef4ea00fafb1219ebdc1c9c2c1b0.jpg",
+        "price": 0.63
+    },
+    {
+        "name": "Atmos",
+        "slug": "OP02-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca1794f73f-94n1h-a6hb0-e22f52f929220dfd70de0ebc20be32e3.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "slug": "OP02-057",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca17a15ac2-isejc-dlh8t-1daf15f1e3548ea93a2e28b01d415bcf.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Bell-mere",
+        "slug": "OP02-112",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca17ae7f65-bsqyr-c8w4p-6533b2368ba597bc39a7213d620ac437.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Blenheim",
+        "slug": "OP02-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca17bafc78-6e4n9-y270c-06dd2cd94e04b14467edd272d34acf7d.jpg",
+        "price": 0.04
+    },
+    {
+        "name": "Blugori",
+        "slug": "OP02-084",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca17c81401-0kmoh-nyg78-f9139b6b818d6ca00b44c5c348608539.jpg",
+        "price": 0.04
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "OP02-059",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca17d42531-uwoye-dv0a1-ffaf12d0aa90879f380dd60ab44d09a8.jpg",
+        "price": 0.28
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "OP02-059-BT",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca17e0e29c-4802a-voxjf-fa47fed248015b8e4d2e0f4277a5207b.jpg",
+        "price": 27.88
+    },
+    {
+        "name": "Borsalino",
+        "slug": "OP02-114",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca17e733b6-ul9x7-21b4l-9901ff490d812240eafec061afde324a.jpg",
+        "price": 59.79
+    },
+    {
+        "name": "Borsalino",
+        "slug": "OP02-114-E",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca17f4f94a-vofc6-nx3zq-355ebaae55052b58aee91c221a435090.jpg",
+        "price": 304.75
+    },
+    {
+        "name": "Brook",
+        "slug": "OP02-040",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca182a3049-pgdw5-1clvn-f1d7cc37013581eb6ffe0bc909765d9d.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Buggy",
+        "slug": "OP02-058",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca18374a59-29dtm-qiusb-18ed103ec88cbc1f7e95421cae729b14.jpg",
+        "price": 2.73
+    },
+    {
+        "name": "Buggy",
+        "slug": "OP02-058-E",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca183eeb21-t0ohz-2073x-b590ee60e353809137ecd965914b7fb7.jpg",
+        "price": 70.19
+    },
+    {
+        "name": "Byrnndi World",
+        "slug": "OP02-082",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca184a828c-galn2-xpn5o-d0d3a070fe65cca2d23031ad9d22ec52.jpg",
+        "price": 0.19
+    },
+    {
+        "name": "Cabaji",
+        "slug": "OP02-052",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca18571b99-j7kyp-6hc7r-ebc8a775418147bf848155d576892c8d.jpg",
+        "price": 0.09
+    },
+    {
+        "name": "Carrot",
+        "slug": "OP02-029",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca18630b9e-f1us2-ru3ka-ab794ccfce7680c9a6e381f2f3df0aa5.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Crocodile",
+        "slug": "OP02-053",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca186eb956-73bqi-xhced-81da3b31f835ffa86b4e145179383800.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Curly.Dadan",
+        "slug": "OP02-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca187a10f2-zcmtx-lnh5j-2feebff1ea9ac1bb9b9c98225899c2f5.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "DEATH WINK",
+        "slug": "OP02-069",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca1885b118-09cax-az9v8-f4f0aa7e6bddceb1f7427b60cffb3aeb.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "DON!! Card",
+        "slug": "DON-187-362",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca189172ff-uz241-czbh4-2c0ab9fdc173d533039350e8c4c27fdb.jpg",
+        "price": 6.5
+    },
+    {
+        "name": "Daifugo",
+        "slug": "OP02-078",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca18c3f830-cj1ga-k7oye-97c42db0db1ace956a98b27ad0df6f85.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Diable Jambe Venaison Shoot",
+        "slug": "OP02-046",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca18d0a6a9-olmx7-i7f36-6922e8c47bf48ef56d5ed2eafafc0f9c.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Doberman",
+        "slug": "OP02-107",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca18dd0c60-fp8li-k2w6e-b2ea526d3fd03af955b18afba8410806.jpg",
+        "price": 0.01
+    },
+    {
+        "name": "Dobon",
+        "slug": "OP02-080",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/3/641ca18eb7c59-gmqub-e4kor-40f85a1d98e95cadedd1699ffbcbce0d.jpg",
+        "price": 0.04
+    },
+    {
+        "name": "Arabesque Brick Fist",
+        "slug": "OP02-067",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/61.OP02-067s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Atmos",
+        "slug": "OP02-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/62.OP02-003s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "slug": "OP02-057",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/63.OP02-057s.jpg",
+        "price": 0.45
+    },
+    {
+        "name": "Bell-mere",
+        "slug": "OP02-112",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/64.OP02-112s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Blenheim",
+        "slug": "OP02-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/65.OP02-012s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Blugori",
+        "slug": "OP02-084",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/66.OP02-084s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "OP02-059",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/67.OP02-059s.jpg",
+        "price": 25.0
+    },
+    {
+        "name": "Byrnndi World",
+        "slug": "OP02-082",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/71.OP02-082s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Cabaji",
+        "slug": "OP02-052",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/72.OP02-052s.jpg",
+        "price": 1.2
+    },
+    {
+        "name": "Crocodile",
+        "slug": "OP02-053",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/74.OP02-053s.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Curly.Dadan",
+        "slug": "OP02-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/75.OP02-005s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "DEATH WINK",
+        "slug": "OP02-069",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/76.OP02-069s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Daifugo",
+        "slug": "OP02-078",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/78.OP02-078s.jpg",
+        "price": 9.49
+    },
+    {
+        "name": "Diable Jambe Venaison Shoot",
+        "slug": "OP02-046",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/79.OP02-046s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Doberman",
+        "slug": "OP02-107",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/80.OP02-107s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Dobon",
+        "slug": "OP02-080",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/81.OP02-080s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Dogura",
+        "slug": "OP02-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/82.OP02-010s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Domino",
+        "slug": "OP02-081",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/83.OP02-081s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "slug": "OP02-056",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/84.OP02-056s.jpg",
+        "price": 1.5
+    },
+    {
+        "name": "Donquixote Rosinante",
+        "slug": "OP02-108",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/85.OP02-108s.jpg",
+        "price": 40.0
+    },
+    {
+        "name": "Douglas Bullet",
+        "slug": "OP02-079",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/86.OP02-079s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Dracule Mihawk",
+        "slug": "OP02-055",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/87.OP02-055s.jpg",
+        "price": 1.5
+    },
+    {
+        "name": "Franky",
+        "slug": "OP02-039",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/90.OP02-039s.jpg",
+        "price": 0.75
+    },
+    {
+        "name": "Fullbody",
+        "slug": "OP02-111",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/4/91.OP02-111s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Ain",
+        "slug": "ST05-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca3446591d-vnwy7-ski0h-29fd6e8c93aeeea8d69620f4bd382476.jpg",
+        "price": 9.3
+    },
+    {
+        "name": "Ann",
+        "slug": "ST05-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca34540a48-j7zty-4093d-cd2988264f0969123b1fd61296960897.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Baccarat",
+        "slug": "ST05-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca34612ada-nvq3m-an2xr-fc506bfd04640990dda3d13ce3835fc6.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Bins",
+        "slug": "ST05-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca346713be-voqyt-7qsh3-91fe929746338d0e481d048a9ed28714.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Buena Festa",
+        "slug": "ST05-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca3477167f-kv4wb-l23w0-75c41ebae85e4edd8d8e9a58edb117ba.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Carina",
+        "slug": "ST05-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca34862cca-gld54-i8eax-96e3572c73424d1eedbec6df8917bc80.jpg",
+        "price": 0.45
+    },
+    {
+        "name": "Douglas Bullet",
+        "slug": "ST05-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca34b6679d-52ow6-pqy72-a2963ff95d97f80c77862d88a91727b3.jpg",
+        "price": 9.17
+    },
+    {
+        "name": "Dr. Indigo",
+        "slug": "ST05-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca34c1edc5-rnaq2-ux1za-fe5d6915b44d4530e89b18f6c8203ccb.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Gild Tesoro",
+        "slug": "ST05-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca34cd62e3-cy0ma-njtxd-a59acc8b6feb53c186e8848a84dd9e02.jpg",
+        "price": 3.9
+    },
+    {
+        "name": "Gordon",
+        "slug": "ST05-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca34d97933-426ya-p5lf9-77cf728a70fdc127fbcf91e8fd3dffb6.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Lion's Threat Imperial Earth Bind",
+        "slug": "ST05-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca34e631b6-hr042-o32yu-99fc1b0195e142aba90d0e6faf91d054.jpg",
+        "price": 0.75
+    },
+    {
+        "name": "Scarlet",
+        "slug": "ST05-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca34f26d3d-t1f3u-5kje2-3c54438f0a0385fafe8b73eaa825594c.jpg",
+        "price": 0.19
+    },
+    {
+        "name": "Shanks",
+        "slug": "ST05-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca34fe220a-h1d67-wg4hf-8d2df0040da3d8e930c6c8da555c5933.jpg",
+        "price": 2.0
+    },
+    {
+        "name": "Shiki",
+        "slug": "ST05-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca350a9958-02r3z-8e5w3-d740cb931a21076cfb450198f6b18655.jpg",
+        "price": 0.4
+    },
+    {
+        "name": "Union Armada",
+        "slug": "ST05-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca35178a99-cu3gj-37apg-4aa659a15e56f5975774b0f468650d27.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Uta",
+        "slug": "ST05-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca352645d4-cv4ad-iwlaf-6893d779c06ac26e8df5cefba2746a40.jpg",
+        "price": 10.0
+    },
+    {
+        "name": "Zephyr",
+        "slug": "ST05-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/11/641ca355b632e-6lxp5-y1iso-1eccfa497be1bcba96b6ecc8fffefb15.jpg",
+        "price": 0.5
+    },
+    {
+        "name": "Black Maria",
+        "slug": "ST04-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca331e64e3-qam7y-5fxik-9870a0b5d7d40b000122135b22dae3bf.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Blast Breath",
+        "slug": "ST04-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca332c8e9b-6r02k-ifd8l-e0388d8c7fbf8154ec600b1e651501b2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Brachio Bomber",
+        "slug": "ST04-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca333ab645-ezbc7-dkfce-386d82cdbc6cf49f4bb918e42b6b7bc8.jpg",
+        "price": 0.39
+    },
+    {
+        "name": "Ginrummy",
+        "slug": "ST04-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca33774aee-pqkhy-jg3n8-66f419be21f430fbbc14a1f38c6dd11c.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Jack",
+        "slug": "ST04-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca3384c70f-g28tr-prkzu-9afd7a31347e5731a6bbd05e21dd4e86.jpg",
+        "price": 0.5
+    },
+    {
+        "name": "Kaido",
+        "slug": "ST04-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca3392541e-jf6vl-fdg3s-34ec38aaf23c2365332066cb0c65057b.jpg",
+        "price": 1.9
+    },
+    {
+        "name": "Kaido",
+        "slug": "ST04-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca33a0d944-erlwo-itgym-1cf081c400a24c82a3a0e0b2a001a71d.jpg",
+        "price": 12.99
+    },
+    {
+        "name": "King",
+        "slug": "ST04-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca33ad2f4c-8qykj-m7i5c-c5396e45b39cbe627c207a9883cdcd49.jpg",
+        "price": 3.99
+    },
+    {
+        "name": "Lead Performer \"Disaster\"",
+        "slug": "ST04-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca33b6c78c-7kl5q-ngc7a-81b610fe8962f79c5ed00ac896a59805.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Onigashima Island",
+        "slug": "ST04-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca33c24d12-918sl-1h5og-ba6538fa556c26812b2a3fb18044c13c.jpg",
+        "price": 0.3
+    },
+    {
+        "name": "Page One",
+        "slug": "ST04-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca33ca88f1-mts0v-0f3il-44edabea50759b9f087f1f13d3ca4474.jpg",
+        "price": 1.19
+    },
+    {
+        "name": "Queen",
+        "slug": "ST04-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca33d2c7fe-n79jv-te1l2-c65a162b823848c5a40b8b186411810d.jpg",
+        "price": 44.9
+    },
+    {
+        "name": "Sasaki",
+        "slug": "ST04-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca33deb8a9-qvnbi-hswuz-70d7de9c2cecd60e0bb0cb314a192a6b.jpg",
+        "price": 0.4
+    },
+    {
+        "name": "Sheepshead",
+        "slug": "ST04-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca34169764-74yr1-4oyrz-8cff2f8c147f8c6c49cb637762f81da3.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Ulti",
+        "slug": "ST04-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca34243bb4-uoz0a-6jeuf-d7b40bebc63a523661b84d2c8c359dc1.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Who's.Who",
+        "slug": "ST04-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca3431296c-cxmbf-wnzi5-dd3f3d8ba8aa72feec212bb89255c65a.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "X.Drake",
+        "slug": "ST04-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/10/641ca343eac20-y6g4j-5rqk6-e724f3273f1def13e5887b57cb19867f.jpg",
+        "price": 0.2
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "slug": "ST03-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca3220b5bd-4kf10-gt30r-a16d686af905daf1fbd63849fec010f2.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "ST03-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca3229a74b-7z0up-947h6-98640d88f19c77648162009d1a772e05.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Buggy",
+        "slug": "ST03-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca32377acb-nxm3v-45wkp-bc299465064645fa3da290dfb428d80f.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Crocodile",
+        "slug": "ST03-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca3245e95d-a56gc-lnohm-a24e1a694b843ebf6e7530f702d74f58.jpg",
+        "price": 2.49
+    },
+    {
+        "name": "Crocodile",
+        "slug": "ST03-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca32541d4a-xs8p7-ml80x-a36f5943587867de65f67c56fea811ef.jpg",
+        "price": 1.0
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "slug": "ST03-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca325c4cdc-dviz2-dyi5f-2b385f1b929720badb39457bb0d655c6.jpg",
+        "price": 2.99
+    },
+    {
+        "name": "Dracule Mihawk",
+        "slug": "ST03-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca32682412-zbo7p-i08rz-e9011f02add74f75fc88522d10717a6a.jpg",
+        "price": 10.9
+    },
+    {
+        "name": "Edward Weevil",
+        "slug": "ST03-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca3274b862-hglmj-nfc9p-a9b92dfe6db3734701f459c696bbcb4e.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Gecko Moria",
+        "slug": "ST03-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca3281cb35-rmi51-sfrh5-80663dc04c3a72e08872a36d1fdfc9f1.jpg",
+        "price": 21.9
+    },
+    {
+        "name": "Jinbe",
+        "slug": "ST03-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca328f0ced-dvzs4-xcl0g-f5cd90c2c869b5f9bfdc2c99aa177e16.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Love-Love Mellow",
+        "slug": "ST03-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca32c52f93-4h95m-k65f4-fb61c4fd67e55dbf3ca7b68983965066.jpg",
+        "price": 45.9
+    },
+    {
+        "name": "Marshall.D.Teach",
+        "slug": "ST03-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca32d1eeb9-mrn1a-632yj-48a95ea567f6bb0034904f2818008917.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Pacifista",
+        "slug": "ST03-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca32dd6491-re6u8-ze1vm-2b807eb9a8549cd317cdab2be9cc81f3.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Sables",
+        "slug": "ST03-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca32eae43f-9wyt0-9ic1e-e04cb60e91b7f596cc78c31cf3675cf3.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Sentomaru",
+        "slug": "ST03-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca32f74261-9hksl-meql9-32187d89c2821cfed3f1858fe2504052.jpg",
+        "price": 0.15
+    },
+    {
+        "name": "Thrust Pad Cannon",
+        "slug": "ST03-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca330572f8-ngpb8-pul24-8c81019f24433c2268006e38b5c377e7.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Trafalgar Law",
+        "slug": "ST03-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/9/641ca331183a7-1p9lt-ciksq-1076d0e7c8cf37c522194f028bc25ddd.jpg",
+        "price": 1.2
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "ST02-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca30f37966-t301u-kw4zn-3e315f6a1a763491a5e54fb8af7ec839.jpg",
+        "price": 3.9
+    },
+    {
+        "name": "Bepo",
+        "slug": "ST02-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31002196-e59kx-kt3js-1dd0f1b3044540e658529c03d9f41572.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Capone\"Gang\"Bege",
+        "slug": "ST02-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca310b9a42-bqho4-2iud1-b2a36c7f237a6ff96dce213fd7d8f138.jpg",
+        "price": 1.79
+    },
+    {
+        "name": "Eustass",
+        "slug": "ST02-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca311949c1-chjeo-07g1r-05aa9a8959d41a3b68de155241e121fe.jpg",
+        "price": 17.0
+    },
+    {
+        "name": "Eustass",
+        "slug": "ST02-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31273e86-kbazc-192df-682fda4ae239962ceb61efb2e5098f82.jpg",
+        "price": 7.8
+    },
+    {
+        "name": "Heat",
+        "slug": "ST02-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca3133e0b1-waxms-oar1j-5f42edeb17211c6d3f87290fc16efd09.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Jewelry Bonney",
+        "slug": "ST02-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca313e843b-mv129-usxcv-97fad411813b3f67eb2aac22363de4ac.jpg",
+        "price": 3.24
+    },
+    {
+        "name": "Killer",
+        "slug": "ST02-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca3179c471-swchj-h1g8m-8ae0d56ffd378dd90a6fe17235155ba5.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Koby",
+        "slug": "ST02-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31879431-hysfr-0vmu6-13054a780f975e13ce5e58a8a8dedd72.jpg",
+        "price": 0.32
+    },
+    {
+        "name": "Repel",
+        "slug": "ST02-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31954c9d-jz2bf-45atw-d705c8802462e7d0e57afa1b05ed23f9.jpg",
+        "price": 0.32
+    },
+    {
+        "name": "Scalpel",
+        "slug": "ST02-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31a2a962-nu1ks-pvmb1-535542885aca87b523aa5f8976611292.jpg",
+        "price": 0.32
+    },
+    {
+        "name": "Scratchmen Apoo",
+        "slug": "ST02-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31abafbf-xt2vb-nv813-26d5fda6408e45118f229f55804d9a0a.jpg",
+        "price": 0.9
+    },
+    {
+        "name": "Straw Sword",
+        "slug": "ST02-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31b981c9-5thsn-bse9v-1c05802e7801d50ac93898aeb49a397e.jpg",
+        "price": 0.5
+    },
+    {
+        "name": "Trafalgar Law",
+        "slug": "ST02-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31c731ab-1j8a3-0gfrx-e71b243f3240ca21fc760f8a3ac26bb8.jpg",
+        "price": 13.9
+    },
+    {
+        "name": "Urouge",
+        "slug": "ST02-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31d38217-vue56-f5bjc-3bcca82d8512fb56dec6287186e3c99b.jpg",
+        "price": 0.4
+    },
+    {
+        "name": "Vito",
+        "slug": "ST02-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31e01a7e-qlps8-7dyzs-330cc33e963c0903d2c6c6bf07845a0a.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "X.Drake",
+        "slug": "ST02-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/8/641ca31e7d1c0-kvsmp-plqce-fbc2c56e14d44b262e1bfcea7cf71e01.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Brook",
+        "slug": "ST01-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca2fca7823-gq5ay-4zkcx-0ddf06f27ece9a56752570c2795a7eb6.jpg",
+        "price": 10.74
+    },
+    {
+        "name": "Diable Jambe",
+        "slug": "ST01-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca2fd88e21-jf2wu-7vesg-12ad6c6ae0fbc02f48849c94fc02f82e.jpg",
+        "price": 4.59
+    },
+    {
+        "name": "Franky",
+        "slug": "ST01-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca2fe50572-48in0-jzp7g-aaa034121b02e78c8552722c1d38d862.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Guard Point",
+        "slug": "ST01-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca2ff1751f-58u7s-uacql-317c6725a47b8ef530eca61be594c7fc.jpg",
+        "price": 5.95
+    },
+    {
+        "name": "Gum-Gum Jet Pistol",
+        "slug": "ST01-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca3029fdc8-6k9jo-0qy2x-3fa666cfc6961d1d8b7415a8b6e27d61.jpg",
+        "price": 1.49
+    },
+    {
+        "name": "Jinbe",
+        "slug": "ST01-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca30377c62-8riht-ifp1o-eb248887a81cba71c16e34b43c0aef8b.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Karoo",
+        "slug": "ST01-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca3043ce38-kesyd-x5ab3-3a66c49984daa2c767b11a70753162da.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Monkey.D.Luffy (012) (Alternate Art)",
+        "slug": "ST01-012-GS",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/65771be3c317e-7pv2u-1r0gi-3001c12f4e517ca6c66e1c187af9246e.jpg",
+        "price": 11500.0
+    },
+    {
+        "name": "Monkey.D.Luffy (012)",
+        "slug": "ST01-012-AA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/65771be211bf2-zbqk8-yek2w-3001c12f4e517ca6c66e1c187af9246e.jpg",
+        "price": 56.9
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST01-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca30510290-892we-l17qe-1f13e0c611058a55da4803ff47eecd87.jpg",
+        "price": 1.79
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST01-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca305cf463-u9qka-avoxk-ffb2360280d1f5abaf920164cd5e8635.jpg",
+        "price": 34.9
+    },
+    {
+        "name": "Nami",
+        "slug": "ST01-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca306913af-nhwzg-tlbde-4ea238476f5d832c444c09524c44cfb7.jpg",
+        "price": 0.75
+    },
+    {
+        "name": "Nefeltari Vivi",
+        "slug": "ST01-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca3075f2dc-4wayp-sb71v-9fb1bb17c462fa6bf2d2ed2f0ee0c260.jpg",
+        "price": 0.32
+    },
+    {
+        "name": "Nico Robin",
+        "slug": "ST01-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca308230db-xmc4e-5utfn-e1d08fe9f97aa15235f2cbf2df39f40d.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Roronoa Zoro",
+        "slug": "ST01-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca308e8dcc-auxpq-djkwf-5ab415468de79263eee99c899f857cde.jpg",
+        "price": 2.9
+    },
+    {
+        "name": "Sanji",
+        "slug": "ST01-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca309ad307-u0m2r-sm6bg-9f3b338846a1ebd87b702a2ef2269bd4.jpg",
+        "price": 0.3
+    },
+    {
+        "name": "Thousand Sunny",
+        "slug": "ST01-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca30d174ce-suza4-3tfdr-f24f14f1398e766db6ad554c6ad83af9.jpg",
+        "price": 0.32
+    },
+    {
+        "name": "Tony Tony.Chopper",
+        "slug": "ST01-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca30dc4815-cqrht-82njh-3202011f35627ca08467de92d278356c.jpg",
+        "price": 1.33
+    },
+    {
+        "name": "Usopp",
+        "slug": "ST01-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/7/641ca30e9d1ff-w281t-bhstc-b60c6b5ca62fed5d1cf7b3e72c01643f.jpg",
+        "price": 0.18
+    },
+    {
+        "name": "Alvida",
+        "slug": "OP01-064",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca2580ebc0-26a5s-voncb-1bea92d9a4e68ca9b2f8646f1cd46fbd.jpg",
+        "price": 0.14
+    },
+    {
+        "name": "Alvida",
+        "slug": "OP01-064-BT",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca258e719e-apbzd-8l7j2-e7355b4d344d47d433e933721f53997a.jpg",
+        "price": 14.4
+    },
+    {
+        "name": "Arlong",
+        "slug": "OP01-063",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca259df128-2mr3e-2orq9-0ce6424cf4d6e5e118ed8460e25defd6.jpg",
+        "price": 0.11
+    },
+    {
+        "name": "Artificial Devil Fruit SMILE",
+        "slug": "OP01-116",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca25acb3f3-6c8zo-wilp8-0a27da2751f9f2ca0f9dcff8a3d7c573.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Ashura Doji",
+        "slug": "OP01-032",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca25b9abfe-m37qv-pmj8b-d6fefc0bf32a5bf9c1cc736fe576e511.jpg",
+        "price": 0.11
+    },
+    {
+        "name": "BE-BENG!!",
+        "slug": "OP01-059",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca25c83e63-9cbok-zonmi-1786c9ff79683574f18192d50400387f.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Babanuki",
+        "slug": "OP01-107",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca25d525ef-awr68-a5zem-cb12a5336a546063baa83f0faba69e0a.jpg",
+        "price": 0.08
+    },
+    {
+        "name": "Bao Huang",
+        "slug": "OP01-105",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca25e2f90d-dcah0-0lrjv-06560a4e79cff3b4155ca8aaa1f913d0.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Baroque Works",
+        "slug": "OP01-090",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca25f2aa99-u69rc-3ib8y-8b4a00f88f8e00256b46fe92190832b8.jpg",
+        "price": 0.24
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "slug": "OP01-074",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca25fe5e85-o9khp-jpb42-809f3ff83559552b4424f9bd1d4d4454.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Bartolomeo",
+        "slug": "OP01-019",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca26465a87-qjy3u-o4mux-5fdd7bc845374e9cb10fe2785a9b0dfe.jpg",
+        "price": 0.16
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "OP01-106",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca26536c56-21ymv-r4dhu-f9f6be6ba4b93509bcf6911f6ab0ec5d.jpg",
+        "price": 0.48
+    },
+    {
+        "name": "Bellamy",
+        "slug": "OP01-076",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca265f26a1-ywius-cyft4-4e00f728df15c2824ef7ccb3469821be.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Bepo",
+        "slug": "OP01-049",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca266d5515-yembh-0zjg2-3e5640f4695428a4d3bfddda64687680.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Black Maria",
+        "slug": "OP01-111",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca2679c058-930lv-riqho-4b9a48c869ce75142d4624559a6c4372.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "OP01-078",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca26859a3d-bag4n-39unm-39f0eaa0a3cd5e0498f4e12ed7912ed3.jpg",
+        "price": 16.9
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "OP01-078-PAR",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca26935af6-lo7rw-phvlf-af0071bf9513a9baaa83a67a58218106.jpg",
+        "price": 330.0
+    },
+    {
+        "name": "Brook",
+        "slug": "OP01-022",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca26a02f29-vwahm-laprs-d8161853cde181927979b9df5b3c98e4.jpg",
+        "price": 0.5
+    },
+    {
+        "name": "Caesar Clown",
+        "slug": "OP01-069",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca26ad07b1-wugvb-xt0g3-41c445bb7d216edb0abf61bf7a743d23.jpg",
+        "price": 0.25
+    },
+    {
+        "name": "Caribou",
+        "slug": "OP01-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca26b9efe4-pnbhr-08fzi-e40c9a489a020dc3fec9a657344201fb.jpg",
+        "price": 0.09
+    },
+    {
+        "name": "Carrot",
+        "slug": "OP01-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca26eea273-w2u94-o5bey-e534714fabaabef459f6ee46d741b154.jpg",
+        "price": 0.05
+    },
+    {
+        "name": "Cavendish",
+        "slug": "OP01-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca26f60e05-qp947-bsm5r-9601a19e18cdb872218132af2813cabf.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Cavendish",
+        "slug": "OP01-008-BT",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca27015976-ekc2f-26p3r-9a4b0c7acd71103effe4827bafc6a29a.jpg",
+        "price": 0.12
+    },
+    {
+        "name": "Crescent Cutlass",
+        "slug": "OP01-089",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/6/641ca270d5f78-iov4h-801z6-88af86c9a4f5d591e3eaec7614603edc.jpg",
+        "price": 0.1
+    },
+    {
+        "name": "Black Maria",
+        "slug": "ST04-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca39b6d1ae-l4qc8-ed0i3-8954589bf569c113f91cfcb411a9e65d.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Blast Breath",
+        "slug": "ST04-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca39c546e8-o7njd-1oik5-efbd57b3189dd7f5a4a79206d1c22841.jpg",
+        "price": 49.9
+    },
+    {
+        "name": "Brachio Bomber",
+        "slug": "ST04-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca39d3cc73-6iyuk-brjty-89ee527bcdeb7f4974e3ab615a11509a.jpg",
+        "price": 0.74
+    },
+    {
+        "name": "Ginrummy",
+        "slug": "ST04-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca39df4207-pjueo-zyfg6-1b6911a670fe4a2926935d746f7b09f8.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Jack",
+        "slug": "ST04-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca39ec8474-gtyq4-bvrel-16d36d1f62f937655af407c03ebef55b.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Kaido",
+        "slug": "ST04-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/662fc22fd87c0-m9p38-2v7l9-21fbbb372c67a14e2b9de67fda1f6d66.jpg",
+        "price": 2.5
+    },
+    {
+        "name": "Kaido",
+        "slug": "ST04-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3a03e9fd-d8vkz-we521-0ea5eb023abd1c239144abcfc10a5f4f.jpg",
+        "price": 28.0
+    },
+    {
+        "name": "King",
+        "slug": "ST04-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3a11d69e-gl3p1-rmgzp-6dde0ba7a75a0cd11a16221749a4d48c.jpg",
+        "price": 9.9
+    },
+    {
+        "name": "Lead Performer \"Disaster\"",
+        "slug": "ST04-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3a1ef5ab-9wlbx-mtf28-374780f55e83294b34a9dbf12a1d8bb5.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Onigashima Island",
+        "slug": "ST04-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3a2c0b1b-yobes-72cdl-5c882b597c50fedf979fcb0b4acecaa2.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Page One",
+        "slug": "ST04-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3a5aaeea-fo46p-tzr75-40daa3093e8ddae0e526bf40e0782bd6.jpg",
+        "price": 7.9
+    },
+    {
+        "name": "Queen",
+        "slug": "ST04-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3a67c4d2-80gic-7bcre-9c6383ecaef4262d47c36a0346275240.jpg",
+        "price": 139.9
+    },
+    {
+        "name": "Sasaki",
+        "slug": "ST04-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3a7402c9-hb17s-s5ghd-42681ab2c33393063787b6ac10bb1122.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Sheepshead",
+        "slug": "ST04-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3a80675d-baqvf-bupqo-ddd29292d5c14fd67e467664a6a9f962.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Ulti",
+        "slug": "ST04-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3a867b92-18v0t-ag1l0-35f71bcab92c9f88e04c712b6a6b7b93.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Who's.Who",
+        "slug": "ST04-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3a932d89-j8tiu-c18gw-2aed6d3decf7def2e6ce11cdd304bca1.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "X.Drake",
+        "slug": "ST04-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/19/641ca3aa1880f-lvbkz-u95fj-87a05aa50bd60dd0d32ca2d436c28a92.jpg",
+        "price": 0.89
+    },
+    {
+        "name": "Bartholomew Kuma",
+        "slug": "ST03-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca38aef845-elpsw-d64nh-d7b2fd7b606b99833007350cfadeabee.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Boa Hancock",
+        "slug": "ST03-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca38b8e00b-zxiev-e923h-538a35b656e7b2a29a7fded1710d619f.jpg",
+        "price": 2.49
+    },
+    {
+        "name": "Buggy",
+        "slug": "ST03-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca38c5459b-tfrdy-ocyab-54a6eb2ba42dd72cc4a66fc56bb00787.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Crocodile",
+        "slug": "ST03-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/662fc22037c48-9vt8k-x2qwg-c0b8c071fb6751b21fc0bd17338fef74.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Crocodile",
+        "slug": "ST03-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca38d85694-ryxng-e8oy3-e66f45b6c0c133650b09ae2dd755ae78.jpg",
+        "price": 3.99
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "slug": "ST03-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca38e7d50e-pr4bx-gz0bl-0dba1e604ed341ace22bfb29fd3c6050.jpg",
+        "price": 5.99
+    },
+    {
+        "name": "Dracule Mihawk",
+        "slug": "ST03-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca38f5f0a5-2htvn-p50nh-84d52b084c67e6fd83220c8539538d18.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Edward Weevil",
+        "slug": "ST03-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca39219723-y2z8b-b75eh-c6306411a6e474798f58bf0864add4cb.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Gecko Moria",
+        "slug": "ST03-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca392bc7f0-yoxwn-lw0jd-2ffdc9ef6c2731d0705b7164557099da.jpg",
+        "price": 4.99
+    },
+    {
+        "name": "Jinbe",
+        "slug": "ST03-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca39380adc-ec76f-t4yhd-6105425dc19af223b50edda50b4b028a.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Love-Love Mellow",
+        "slug": "ST03-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca3945ea9d-zcrn8-acxz5-8052ac970e856aa10dcddca265aa1233.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Marshall.D.Teach",
+        "slug": "ST03-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca394e99a0-h9sj1-crfjw-4f61a9bb48ea8bc31e3fbfdab9efc895.jpg",
+        "price": 0.5
+    },
+    {
+        "name": "Pacifista",
+        "slug": "ST03-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca395afe44-hqbey-wv9re-5786562c98fb49a0d791eea58d1fcdc2.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Sables",
+        "slug": "ST03-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca396bf77c-kpjwo-xq1d3-b361e76b8a5a70a368c82a3b0213786b.jpg",
+        "price": 1.0
+    },
+    {
+        "name": "Sentomaru",
+        "slug": "ST03-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca39747fee-1fi4z-vo4h8-6650554471955d985dd8c820db126c9d.jpg",
+        "price": 39.9
+    },
+    {
+        "name": "Thrust Pad Cannon",
+        "slug": "ST03-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca397e855e-igz1w-p2uso-f3b72c43f739acdbd5024c7d3cdeacfb.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Trafalgar Law",
+        "slug": "ST03-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/18/641ca39883dc2-ehalq-48xs7-1500b515825251b4dd0cae674edc0400.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "ST02-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca379a8bc0-thx2c-8t7h3-f2e70a814fbf3637a5e121941a319c9d.jpg",
+        "price": 4.0
+    },
+    {
+        "name": "Bepo",
+        "slug": "ST02-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca37a6cb88-k2j9d-0v8d2-c75c2849a0e6086a9f205c8c74b59478.jpg",
+        "price": 0.5
+    },
+    {
+        "name": "Capone\"Gang\"Bege",
+        "slug": "ST02-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca37b3366b-dzngv-tnf4u-70e1877a2031818ce01b4580db8c95a4.jpg",
+        "price": 19.9
+    },
+    {
+        "name": "Eustass",
+        "slug": "ST02-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/662fbf62d3a24-5gzdh-l36jn-4d691ede3dac2dca88a44667a2a60467.jpg",
+        "price": 8.0
+    },
+    {
+        "name": "Eustass",
+        "slug": "ST02-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca37f37b2a-fb83g-dpqcs-7f2d469139a013fbdaafb73af9899a02.jpg",
+        "price": 14.9
+    },
+    {
+        "name": "Heat",
+        "slug": "ST02-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca37fbce04-7aulj-sbfq2-82bbef28d9b45a35cde74015a750d9d0.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Jewelry Bonney",
+        "slug": "ST02-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca38037a64-qhsi3-iztso-5b77b9dc942c47642489e6812e5a9451.jpg",
+        "price": 3.49
+    },
+    {
+        "name": "Killer",
+        "slug": "ST02-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca381115af-1nvw8-3yqv9-fc8dc7c609088e411cd26994659087ec.jpg",
+        "price": 2.0
+    },
+    {
+        "name": "Koby",
+        "slug": "ST02-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca381e613b-tl8iz-28x6q-5f3bec3fe4150fca634b45580b41ebd8.jpg",
+        "price": 0.99
+    },
+    {
+        "name": "Repel",
+        "slug": "ST02-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca382bc0fe-riwlb-194gw-d2641a551bef2944ffc9d734371750a6.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Scalpel",
+        "slug": "ST02-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca383770c1-ljkhd-vuzbh-b4a6ced2eba7d1038c9b91c82de45ba4.jpg",
+        "price": 1.99
+    },
+    {
+        "name": "Scratchmen Apoo",
+        "slug": "ST02-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca38438903-v8bs6-hwopm-3d60df9df68bb91c4f590fdd64a6976f.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Straw Sword",
+        "slug": "ST02-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca38521226-fzykd-il1x9-8cf9f802cfc4cacf939b387e83abc1c2.jpg",
+        "price": 29.9
+    },
+    {
+        "name": "Trafalgar Law",
+        "slug": "ST02-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca3858c1f1-uevir-7fo12-6a7b8d997785259cca4f43f27accbe72.jpg",
+        "price": 12.9
+    },
+    {
+        "name": "Urouge",
+        "slug": "ST02-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca388abdab-7wc0f-gq4lo-6940da0de49f79f498c8df08c64b4dfe.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Vito",
+        "slug": "ST02-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca38973b17-83q4u-2ehxq-b76e128d82e4ac2536a2f67ec008fb1f.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "X.Drake",
+        "slug": "ST02-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/17/641ca38a1c685-vt4z0-zvwu0-4051c8736839324251d69322f4f6f83d.jpg",
+        "price": 1.0
+    },
+    {
+        "name": "Brook",
+        "slug": "ST01-011",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca366006ec-3vpm2-7194k-7a2ad61e236d8e085bc363a21baff2a6.jpg",
+        "price": 19.99
+    },
+    {
+        "name": "DON!! Card",
+        "slug": "DON-213-554",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca366b4ccb-fagqm-125wd-5cd7acf90259173b996b6d5f162702ea.jpg",
+        "price": 39.99
+    },
+    {
+        "name": "Diable Jambe",
+        "slug": "ST01-016",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca36a5a534-6c1iv-yjozs-cb1da1774e018a17e6a880f83b4afd1b.jpg",
+        "price": 1.65
+    },
+    {
+        "name": "Franky",
+        "slug": "ST01-010",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca36b462fb-ko7rq-9pflt-22f43f4a337bd6f00d06df066d2e0b59.jpg",
+        "price": 0.39
+    },
+    {
+        "name": "Guard Point",
+        "slug": "ST01-014",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca36be6dab-xzqea-msxvj-2f9d9173cc9a4bce295785cef1a7c481.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Gum-Gum Jet Pistol",
+        "slug": "ST01-015",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca36cd2f0a-8nozd-3bgjk-a461800f0c4b0e13f2a91be390b50196.jpg",
+        "price": 5.5
+    },
+    {
+        "name": "Jinbe",
+        "slug": "ST01-005",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca36db4103-viezo-hcy76-47c906f76c55ec97d27f4c8123863a71.jpg",
+        "price": 0.95
+    },
+    {
+        "name": "Karoo",
+        "slug": "ST01-003",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca36e87f04-yzwfl-a2nqc-1ccc4db1e3b01cd62813ba702e7e4fe7.jpg",
+        "price": 0.99
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST01-001",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/130.ST01-001s.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Monkey.D.Luffy",
+        "slug": "ST01-012",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca37011f35-qfl1o-e95f3-458afa60dc5a96a88546513c9c122048.jpg",
+        "price": 59.9
+    },
+    {
+        "name": "Nami",
+        "slug": "ST01-007",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca370be26a-c9a5b-jrd73-90bcf92aa491d15cbd46d9846f824b0c.jpg",
+        "price": 1.8
+    },
+    {
+        "name": "Nefeltari Vivi",
+        "slug": "ST01-009",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca371837c1-4zm7a-h973k-03b24ba19f93ac386f6adafca5291474.jpg",
+        "price": 0.8
+    },
+    {
+        "name": "Nico Robin",
+        "slug": "ST01-008",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca374c2a88-jfro1-h4zbx-0ef6d094fc3fb9ac1f92df7f25a11a21.jpg",
+        "price": 0.39
+    },
+    {
+        "name": "Roronoa Zoro",
+        "slug": "ST01-013",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca3759c473-1yg70-fa5kp-5ddd926777973ab772e6626e47f59f79.jpg",
+        "price": 7.99
+    },
+    {
+        "name": "Sanji",
+        "slug": "ST01-004",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca3765b7ea-8h1tq-7baml-374bc76c1d9e9e4078e829babda82034.jpg",
+        "price": 0.32
+    },
+    {
+        "name": "Thousand Sunny",
+        "slug": "ST01-017",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca377644ef-wicse-tufw9-52fcbd6e1a91b1fe8e46af3222fb0035.jpg",
+        "price": 0.49
+    },
+    {
+        "name": "Tony Tony.Chopper",
+        "slug": "ST01-006",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca37822a89-4y2q1-9sxvg-b1bd1953fdfb3e60bf710f5be1f3f802.jpg",
+        "price": 5.8
+    },
+    {
+        "name": "Usopp",
+        "slug": "ST01-002",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/16/641ca378f00e9-etrh8-pfdts-7339a527b3a80847a1f08786ad6ecf92.jpg",
+        "price": 0.99
+    },
+    {
+        "name": "Ain",
+        "slug": "ST05-002-JP",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/67044cbe36f74-10abi-smdr1-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Arlong",
+        "slug": "P-048-LA",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/662bf91fab726-a2ps6-qwckg-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 16.0
+    },
+    {
+        "name": "Arlong",
+        "slug": "P-048-SB",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/6566597d31fdb-hf3p0-4x93o-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 49.99
+    },
+    {
+        "name": "Baccarat",
+        "slug": "OP07-010-JP",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/67044c5f4fb0b-e9scp-b46cv-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Backlight",
+        "slug": "ST11-003-UD",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/65bd466d632ef-rx5yj-s7dlw-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 1.89
+    },
+    {
+        "name": "Bartolomeo",
+        "slug": "P-029-CF",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/67046234d6a0f-x8dm2-nlv7j-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Bartolomeo",
+        "slug": "P-029-CS",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/65b95454b0bec-gath3-d0iv4-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 159.9
+    },
+    {
+        "name": "Bartolomeo",
+        "slug": "P-029-EP",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/641ca0d46211b-lhcm6-6cr1d-f48b19f4beb1cc50f9e0f68fe5929c17.jpg",
+        "price": 98.9
+    },
+    {
+        "name": "Bartolomeo",
+        "slug": "OP04-089-JP",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/66ce43fbea9cd-izdsm-0t9l1-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 14.9
+    },
+    {
+        "name": "Bartolomeo",
+        "slug": "P-018-FR",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/641ca0d526ade-y5s73-sh6f0-18afd964fab05c411405d47b464f06ff.jpg",
+        "price": 4.99
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "ST02-010-CS",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/65b95464966d3-kvw98-rnt6l-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "ST02-010-CF",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/65b954630a922-52i90-4w56o-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Basil Hawkins",
+        "slug": "ST02-010-CW",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/65b954662b9cd-neshi-0taym-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Bellamy",
+        "slug": "P-039-PP",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/654b957d2ead3-4dzav-9m8on-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 29.99
+    },
+    {
+        "name": "Belo Betty",
+        "slug": "OP05-015-JP",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/66ce43ff781e7-hk46f-uhaze-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 20.9
+    },
+    {
+        "name": "Benn.Beckman",
+        "slug": "P-021-FR",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/641ca0d5a8262-pxgjv-ys6t7-dac8af75ae3e0b0479769e8f6f556d7e.jpg",
+        "price": 6.0
+    },
+    {
+        "name": "Bepo",
+        "slug": "P-019-CP",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/67044c8206b6e-73rzn-tghbj-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Bepo",
+        "slug": "P-019-FR",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/641ca0d66efaf-94jlm-7h2ij-75740abfff50d3fd8396d10dfe966471.jpg",
+        "price": 17.9
+    },
+    {
+        "name": "Bepo",
+        "slug": "P-019-TP",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/66ce44287a048-dvsqu-usz42-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 3.1
+    },
+    {
+        "name": "Bepo",
+        "slug": "P-019-WP",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/66ce442a4476b-gonw4-6ksib-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 28.95
+    },
+    {
+        "name": "Black Maria",
+        "slug": "ST04-011-CS",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/65b95475f3f26-kv8b4-pui94-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 72.9
+    },
+    {
+        "name": "Black Maria",
+        "slug": "ST04-011-BC",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/67044cbc75337-wfi10-deiwl-a12f16c644039099699332e247f11ec0.jpg",
+        "price": 0.0
+    },
+    {
+        "name": "Black Maria",
+        "slug": "ST04-011-TP",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/641ca0d734be8-te2zm-lk0re-eae1ad535ef6a083f6ce3e40917ee809.jpg",
+        "price": 3.0
+    },
+    {
+        "name": "Black Maria",
+        "slug": "ST04-011-TW",
+        "illustration_img_url": "https://repositorio.sbrauble.com//arquivos/in/onepiece/2/641ca0d7e84cd-z0ft8-j4vl3-5c76cb7902553d101c916d9e4beadc19.jpg",
+        "price": 77.9
+    }
+]
